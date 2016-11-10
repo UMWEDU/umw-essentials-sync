@@ -6,17 +6,17 @@ post_date: 2016-05-17 13:50:32
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/essentials/life-at-umw/get-involved/
+  http://www.umw.edu/essentials/life-at-umw/get-involved/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2>Athletics</h2>
-UMW is a proud member of the <a href="http://www.ncaa.org/about?division=d3">NCAA Division III</a> and is renowned as one of the strongest broad-based programs in the nation. Of the 22 sports at UMW, 20 have competed in national championship events, and the <a href="http://www.umweagles.com/landing/index">Eagles</a> have brought home national titles in five sports. As a charter member of the <a href="http://cacsports.com/landing/index">Capital Athletic Conference (CAC)</a>, the <a href="http://www.umweagles.com/landing/index">Eagles</a> have won the CAC All-Sports Award 12 times in the 24-year history of the league. UMW also has produced hundreds of All-America selections, and countless all-region and all-conference picks.
+UMW is a proud member of the <a href="http://www.ncaa.org/about?division=d3">NCAA Division III</a> and is renowned as one of the strongest broad-based programs in the nation. Of the 23 sports at UMW, 20 have competed in national championship events, and the <a href="http://www.umweagles.com/landing/index">Eagles</a> have brought home national titles in five sports. As a charter member of the <a href="http://cacsports.com/landing/index">Capital Athletic Conference (CAC)</a>, the <a href="http://www.umweagles.com/landing/index">Eagles</a> have won the CAC All-Sports Award 12 times in the 26-year history of the league. UMW also has produced hundreds of All-America selections, and countless all-region and all-conference picks.
 
 As a DIII institution, we do not offer athletic scholarships, nor do we utilize the national letter of intent program. However, all of our sports are very competitive, and spots on the rosters are not taken for granted. Have a thorough and complete conversation with your head coach about where he or she sees you on the team. There may be an expectation of some level of tryout. All roster spots are evaluated annually, based on criteria such as academic and athletic performance, team commitment, and social responsibility. If you have any questions about where you stand or what the expectations will be, please direct them to your head coach.
 
-All potential student-athletes must meet NCAA eligibility, complete mandatory athletic training and, NCAA forms, and register for the PHYD 400-level course corresponding to their sport. Please contact the head coach directly if you have not received instructions to complete paperwork. All forms are digital and must be completed by Aug. 1, 2016.
+All potential student-athletes must meet NCAA eligibility, complete mandatory athletic training and, NCAA forms, and register for the PHYD 400-level course corresponding to their sport. Please contact the head coach directly if you have not received instructions to complete paperwork. All forms are digital and must be completed by Jan. 1, 2017.
 <h2>Campus Recreation and Sport Clubs</h2>
 <h3>Campus Recreation:</h3>
 The Department of <a href="http://students.umw.edu/campusrec/the-fitness-center-2/">Campus Recreation</a> is housed in the <a href="http://students.umw.edu/campusrec/the-fitness-center-2/">Fitness Center</a>, located at the Eagle Village side of Campus Walk.  The Fitness Center offers up-to-date cardiovascular, free weight, and circuit equipment for student use as they explore proper health and exercise habits.  Group fitness and wellness programs are available and free. Workshops are offered on proper lifting techniques, stress management, nutrition tips and more!
