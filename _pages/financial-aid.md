@@ -6,7 +6,7 @@ post_date: 2016-05-26 10:47:50
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/essentials/business-matters/financial-aid/
+  http://www.umw.edu/essentials/business-matters/financial-aid/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -14,7 +14,7 @@ wpcf-home-page-grid-inclusion:
 For more information regarding the topics below, and other financial aid options, please visit the <a href="http://www.umw.edu/financialaid">Office of Financial Aid</a> website. We're located in Lee Hall (second floor) and is open Monday-Friday 8am-5pm.  Please feel free to visit our office if you have questions regarding your financial aid award letter, types of available financial aid, etc. One of our representatives will be happy to chat!
 <h2>Frequently Asked Questions</h2>
 <h3>How can I access my/my student’s financial aid information?</h3>
-When a student enters college, their financial aid information is considered protected information under FERPA (Family Educational Rights and Privacy Act). However, a student can designate a parent or other third party to be able to access the UMW system to view the student’s financial aid award and requirement status. The sign up is available through myUMW’s Eagle Gateway.
+When a student enters college, their financial aid information is considered protected information under FERPA (Family Educational Rights and Privacy Act). However, a student can designate a parent or other third party to be able to access the UMW system to view the student’s financial aid award and requirement status. The sign up is available through myUMW’s Eagle Gateway. Instructions for delegated access sign-up are contained in the award letter guide that accompanied your award letter.  Without student consent, Financial Aid representatives are unable to speak to parents or other third parties regarding the student's financial aid award and requirements.
 <h3>What are the costs for 2016-2017?</h3>
 Current <a href="https://www.umw.edu/financialaid/process/cost-of-attendance/">estimated costs for 2016-2017</a> can be found on our Financial Aid website.
 <h3>When will my bill be due for the 2016-2017 year and what other options are available?</h3>
