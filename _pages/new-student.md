@@ -1,12 +1,12 @@
 ---
 ID: 23
-post_title: 'New Student Arrival &#038; Programs'
+post_title: 'New Student Arrival &amp; Programs'
 author: Shelley Keith
 post_date: 2016-05-12 14:21:50
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/essentials/new-student/
+  http://www.umw.edu/essentials/new-student/
 published: true
 wpcf-home-page-grid-inclusion:
   - "1"
@@ -23,7 +23,7 @@ wpcf-homepage-copy:
 <h2 id="nest">N.E.S.T. Pre-Arrival Program</h2>
 If you want an early connection to UMW campus culture and activities, consider the pre-arrival program <a href="http://students.umw.edu/chls/n-e-s-t/">N.E.S.T. (New Experiences for Students Transitioning</a>).  This program spans August 21-24 and offers a unique opportunity to get a jump on exploring UMW and surrounding attractions as well as bonding with fellow students. <strong>Space is limited, and there is an associated cost.  </strong>To register or learn more, visit the <a href="http://students.umw.edu/chls/n-e-s-t/">N.E.S.T. website </a>or call (540) 654-2272.
 <h2 id="movein">Move-In</h2>
-Residential students can <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">move into their assigned residence halls </a>from 8 a.m. to noon on Wednesday, August 24.<strong>
+New students can move into residence halls from 9:00 a.m. to 4:30 p.m. on Thursday, January 12.  Returning residential students can <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">move into their assigned residence halls </a>from 9 a.m. to 5:00 p.m. on Sunday, January 15.<strong>
 </strong>
 <h3>Move-in Tips</h3>
 <ul>
