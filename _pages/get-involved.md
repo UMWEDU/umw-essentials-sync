@@ -29,13 +29,12 @@ Group fitness classes are free at UMW and Campus Rec offers many popular formats
 <h3><strong>Student Employees Welcome!</strong></h3>
 Campus Recreation is the second largest <a href="http://students.umw.edu/campusrec/employment/">employer of students.</a>  Students work at the Fitness Center as Fitness Center attendants, group fitness instructors, personal trainers, or intramural officials. There are also opportunities for students to become certified personal trainers or group fitness instructors!  Applications are available on our <a href="http://students.umw.edu/campusrec/employment/">website.</a>
 <h3>Visit the Fitness Center!</h3>
-<p style="text-align: justify"><strong>Regular semester hours:</strong>
+<strong>Regular semester hours:</strong>
 Monday-Thursday:  7  a.m. - 10:30 p.m.
 Friday:  7 a.m. -8 p.m.
-Saturday:  11 a.m. - 8 p.m.</p>
-<p style="text-align: justify">Sunday:  11 a.m. - 10&gt;30 p.m.</p>
-<p style="text-align: justify"></p>
+Saturday:  11 a.m. - 8 p.m.
 
+Sunday:  11 a.m. - 10&gt;30 p.m.
 <h3>Arts at UMW</h3>
 Whether you take a studio art class, join the orchestra, audition for a play, or sing and dance, you can be part of a vibrant aspect of life at UMW. Contact Prof. Gregg Stull (gstull@umw.edu) about theater, dance, or music; or Prof. Carole Garmon (cgarmon@umw.edu) about studio art or art history.
 <h2>Campus Ministries</h2>
