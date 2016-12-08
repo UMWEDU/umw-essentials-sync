@@ -6,7 +6,7 @@ post_date: 2016-05-11 19:43:19
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/essentials/academics/academic-calendar/
+  http://www.umw.edu/essentials/academics/academic-calendar/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -96,4 +96,4 @@ May 14 (for graduates)</td>
 </tr>
 </tbody>
 </table>
-*Limited housing options are available during Thanksgiving, winter, and spring breaks for international and out-of-state students, but only for those who apply by the communicated deadline. Students should contact the Office of <a href="http://www.umw.edu/residencelife/">Residence Life</a>, (540)654-1058, to investigate possible housing options for breaks.
+*Limited housing options are available during Thanksgiving, winter, and spring breaks for international and out-of-state students, but only for those who apply by the communicated deadline. Students should contact the Office of <a href="http://www.umw.edu/residencelife/">Residence Life</a>, 540-654-1058, to investigate possible housing options for breaks.
