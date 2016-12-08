@@ -51,7 +51,7 @@ wpcf-home-page-grid-inclusion:
 <tr>
 <td>Individual course withdrawal deadline</td>
 <td>Oct. 28</td>
-<td>Mar. 23</td>
+<td>Mar. 24</td>
 </tr>
 <tr>
 <td>Advance registration</td>
