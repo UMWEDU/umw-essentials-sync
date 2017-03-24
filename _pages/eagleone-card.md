@@ -6,7 +6,7 @@ post_date: 2016-05-11 20:02:59
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/essentials/business-matters/eagleone-card/
+  https://www.umw.edu/essentials/business-matters/eagleone-card/
 published: true
 yst_prominent_words_version:
   - "1"
