@@ -6,7 +6,7 @@ post_date: 2016-05-11 20:02:59
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/essentials/business-matters/eagleone-card/
+  http://www.umw.edu/essentials/business-matters/eagleone-card/
 published: true
 wpcf-home-page-grid-inclusion:
   - "1"
@@ -16,7 +16,7 @@ wpcf-homepage-copy:
 yst_prominent_words_version:
   - "1"
 ---
-Your official UMW identification card is called the <a href="http://adminfinance.umw.edu/eagleone/">EagleOne card</a>. You may submit your photo through the Eagle Gateway portal on <a href="https://auth.umw.edu/authenticationendpoint/login.do?commonAuthCallerPath=%252Fcas%252Flogin&amp;forceAuth=false&amp;passiveAuth=false&amp;relyingParty=Orgsync&amp;tenantDomain=carbon.super&amp;type=cassso&amp;sessionDataKey=4ff91bc1-432b-46bf-b2b3-3dc1fc36cbc6&amp;relyingParty=Orgsync&amp;type=cassso&amp;sp=default&amp;isSaaSApp=true&amp;authenticators=BasicAuthenticator:LOCAL">myUMW </a>from June 29-July 24 and pick up your card once you’re here in the fall. You may also stop by the EagleOne Card Center in Lee Hall to have your photo taken and receive your card. You must bring a valid, government-issued photo ID in order to receive your EagleOne card.
+Your official UMW identification card is called the <a href="http://adminfinance.umw.edu/eagleone/attention-incoming-freshman-and-transfers/">EagleOne card</a>. You may submit your photo through the Eagle Gateway portal on <a href="https://auth.umw.edu/authenticationendpoint/login.do?commonAuthCallerPath=%252Fcas%252Flogin&amp;forceAuth=false&amp;passiveAuth=false&amp;relyingParty=Orgsync&amp;tenantDomain=carbon.super&amp;type=cassso&amp;sessionDataKey=4ff91bc1-432b-46bf-b2b3-3dc1fc36cbc6&amp;relyingParty=Orgsync&amp;type=cassso&amp;sp=default&amp;isSaaSApp=true&amp;authenticators=BasicAuthenticator:LOCAL">myUMW </a>from June 29-July 24 and pick up your card once you’re here in the fall. You may also stop by the EagleOne Card Center in Lee Hall to have your photo taken and receive your card. You must bring a valid, government-issued photo ID in order to receive your EagleOne card.
 
 The card has myriad uses on campus and should be carried at all times to...
 <ul>
