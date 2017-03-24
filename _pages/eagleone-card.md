@@ -13,6 +13,8 @@ wpcf-home-page-grid-inclusion:
 wpcf-homepage-copy:
   - |
     <img class="alignleft size-thumbnail wp-image-36" src="https://www.umw.edu/essentials/wp-content/uploads/sites/39/2016/05/eagleOnelogo-150x150.jpg" alt="" width="75" height="75" /> Your official UMW identification card is called the <a href="https://www.umw.edu/essentials/eagleone-card/">EagleOne card</a>. It's used for meal plans, building access, in the library, at vending machines, and more. It can be used anywhere you see an EagleOne logo.
+yst_prominent_words_version:
+  - "1"
 ---
 Your official UMW identification card is called the <a href="http://adminfinance.umw.edu/eagleone/">EagleOne card</a>. You may submit your photo through the Eagle Gateway portal on <a href="https://auth.umw.edu/authenticationendpoint/login.do?commonAuthCallerPath=%252Fcas%252Flogin&amp;forceAuth=false&amp;passiveAuth=false&amp;relyingParty=Orgsync&amp;tenantDomain=carbon.super&amp;type=cassso&amp;sessionDataKey=4ff91bc1-432b-46bf-b2b3-3dc1fc36cbc6&amp;relyingParty=Orgsync&amp;type=cassso&amp;sp=default&amp;isSaaSApp=true&amp;authenticators=BasicAuthenticator:LOCAL">myUMW </a>from June 29-July 24 and pick up your card once you’re here in the fall. You may also stop by the EagleOne Card Center in Lee Hall to have your photo taken and receive your card. You must bring a valid, government-issued photo ID in order to receive your EagleOne card.
 
