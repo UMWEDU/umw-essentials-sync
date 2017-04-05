@@ -6,12 +6,14 @@ post_date: 2016-05-12 18:51:28
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/essentials/business-matters/accounts/
+  http://www.umw.edu/essentials/business-matters/accounts/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
+yst_prominent_words_version:
+  - "1"
 ---
-For additional information please visit the <a href="http://adminfinance.umw.edu/studentaccounts/billing-information/">Student Accounts website</a> or call (540)654-1250.
+For additional information please visit the <a href="http://adminfinance.umw.edu/studentaccounts/billing-information/">Student Accounts website</a> or call 540-654-1250.
 
 <strong>Tuition bills </strong>are available online through EaglePAY.
 <ul>
@@ -61,4 +63,4 @@ Are you expecting a refund from your student account or financial aid? Sign up f
  	<li>Click on “Direct Deposit”</li>
  	<li>Enter your bank information</li>
 </ul>
-You will find more information regarding refunds and direct deposit on the <a href="http://adminfinance.umw.edu/studentaccounts/">Student Accounts</a> website.   If you have additional questions about refunds or direct deposit, please contact the Office of Student Accounts by email at <a href="mailto:umwbills@umw.edu">umwbills@umw.edu</a> or by phone at (540)654-1250. You can also contact Accounts Payable at <a href="mailto:payables@umw.edu">payables@umw.edu</a> or by phone at (540)654-1225.
+You will find more information regarding refunds and direct deposit on the <a href="http://adminfinance.umw.edu/studentaccounts/">Student Accounts</a> website.   If you have additional questions about refunds or direct deposit, please contact the Office of Student Accounts by email at <a href="mailto:umwbills@umw.edu">umwbills@umw.edu</a> or by phone at 540-654-1250. You can also contact Accounts Payable at <a href="mailto:payables@umw.edu">payables@umw.edu</a> or by phone at 540-654-1225.
