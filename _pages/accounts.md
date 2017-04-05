@@ -6,12 +6,12 @@ post_date: 2016-05-12 18:51:28
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/essentials/business-matters/accounts/
+  https://www.umw.edu/essentials/business-matters/accounts/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
 yst_prominent_words_version:
   - "1"
+wpcf-home-page-grid-inclusion:
+  - "0"
 ---
 For additional information please visit the <a href="http://adminfinance.umw.edu/studentaccounts/billing-information/">Student Accounts website</a> or call 540-654-1250.
 
