@@ -5,7 +5,7 @@ author: Emily
 post_date: 2016-05-17 13:28:17
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/essentials/wellness/
+permalink: http://www.umw.edu/essentials/wellness/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -13,7 +13,7 @@ wpcf-home-page-grid-inclusion:
 <h2>Health Center</h2>
 The <a href="http://students.umw.edu/healthcenter/">UMW Student Health Center</a> provides an array of services to assist students when they are ill, and to help them stay healthy through education, prevention, and self-care. Located on the first floor of Lee Hall, the center is open during regular business hours with a medical staff that includes a full-time physician, two nurse practitioners, and three registered nurses. After hours, you may call <a href="http://students.umw.edu/counseling/links-to-umw-brochures-other-resources/available-resources/">HealthLink</a> (540)741-1000, a local nurse-triage service, for a phone consultation for no additional fee.
 
-All full-time students are eligible to use the Health Center. All incoming full-time students, whether residential or commuting, are required to submit to the Health Center by August 5, 2016 a completed health history, tuberculosis screening, and immunization form signed by a health care provider. For more information and to download the form, please see “<a href="http://students.umw.edu/healthcenter/info/new-students/">New Students</a>,” or call the Health Center at (540)654-1040.
+All full-time students are eligible to use the Health Center. All incoming full-time students, whether residential or commuting, are required to submit to the Health Center by August 1, 2017 a completed health history, tuberculosis screening, and immunization form signed by a health care provider. For more information and to download the form, please see “<a href="http://students.umw.edu/healthcenter/info/new-students/">New Students</a>,” or call the Health Center at (540)654-1040.
 <h4>Completed forms should be mailed or faxed to:</h4>
 University of Mary Washington, Student Health Center
 1301 College Avenue, Fredericksburg, VA 22401
