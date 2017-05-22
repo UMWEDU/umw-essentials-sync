@@ -6,10 +6,8 @@ post_date: 2016-05-11 20:02:59
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/essentials/business-matters/eagleone-card/
+  http://www.umw.edu/essentials/business-matters/eagleone-card/
 published: true
-yst_prominent_words_version:
-  - "1"
 wpcf-home-page-grid-inclusion:
   - "1"
 wpcf-homepage-copy:
@@ -20,7 +18,7 @@ Your official UMW identification card is called the <a href="http://adminfinance
 
 <span style="color: #1f497d;font-family: 'Georgia',serif"> </span>The card has myriad uses on campus and should be carried at all times to...
 <ul>
- 	<li>access your residence hall, the fitness center, gym, and numerous campus events</li>
+ 	<li>access your residence hall, fitness center, labs, and numerous campus events</li>
  	<li>borrow books from <a href="http://libraries.umw.edu/">Simpson Library</a> and pay library fees</li>
  	<li>use at campus dining facilities and to check meal plan and balance information</li>
  	<li>use as a debit card with your EagleOne account</li>
@@ -29,6 +27,6 @@ Your official UMW identification card is called the <a href="http://adminfinance
  	<li>use for public copiers and printing at campus computer labs</li>
  	<li>make purchases from participating off-campus merchants</li>
 </ul>
-Funds can be added to your EagleOne account <a href="https://eagleone-sp.blackboard.com/eaccounts/AnonymousHome.aspx">24/7 online</a>, by mail, or at the Cashier’s Office and the EagleOne Card Center, both in Lee Hall. With the EagleOne card, you won’t need to carry cash, write checks, or use a bank card anywhere you see the EagleOne logo.
+Funds can be added to your EagleOne account <a href="https://eagleone-sp.blackboard.com/eaccounts/AnonymousHome.aspx">24/7 online</a>, the Blackboard Transact eAccounts app for iOS and Android, by mail, or at the Cashier’s Office and the EagleOne Card Center, both in Lee Hall. With the EagleOne card, you won’t need to carry cash, write checks, or use a bank card anywhere you see the EagleOne logo.
 <h2>If you lose your card…</h2>
 All lost cards should be deactivated immediately in person at the <a href="http://adminfinance.umw.edu/eagleone/card-replacements/">EagleOne Card Center</a> during normal business hours or online 24/7.  If you are a residential student, you should also deactivate your card at the UMW Police Station (Brent House).
