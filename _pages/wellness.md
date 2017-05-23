@@ -13,7 +13,7 @@ wpcf-home-page-grid-inclusion:
 <h2>Health Center</h2>
 The <a href="http://students.umw.edu/healthcenter/">UMW Student Health Center</a> provides an array of services to assist students when they are ill, and to help them stay healthy through education, prevention, and self-care. Located on the first floor of Lee Hall, the center is open during regular business hours with a medical staff that includes a full-time physician, two nurse practitioners, and three registered nurses. After hours, you may call <a href="http://students.umw.edu/counseling/links-to-umw-brochures-other-resources/available-resources/">HealthLink</a> (540)741-1000, a local nurse-triage service, for a phone consultation for no additional fee.
 
-All full-time students are eligible to use the Health Center. All incoming full-time students, whether residential or commuting, are required to submit to the Health Center by August 1, 2018 a completed health history, tuberculosis screening, and immunization form signed by a health care provider. For more information and to download the form, please see “<a href="http://students.umw.edu/healthcenter/info/new-students/">New Students</a>,” or call the Health Center at (540)654-1040.
+All full-time undergraduate students are eligible to use the Health Center. All incoming full-time students, whether residential or commuting, are required to submit to the Health Center by August 1, 2017 a completed health history, tuberculosis screening, and immunization form signed by a health care provider. For more information and to download the form, please see “<a href="http://students.umw.edu/healthcenter/info/new-students/">New Students</a>,” or call the Health Center at (540)654-1040.
 <h4>Completed forms should be mailed or faxed to:</h4>
 University of Mary Washington, Student Health Center
 1301 College Avenue, Fredericksburg, VA 22401
@@ -21,12 +21,12 @@ FAX (540)654-1077
 <h3>IMPORTANT NOTE:</h3>
 Students who do not submit their health form to the Student Health Center by the due date will have a hold placed on their accounts and will not be able to register for next-semester classes until their completed form is turned in.
 
-The Health Center’s self-care center on the first floor of Lee Hall is available 24/7 and offers students:
+The Health Center’s self-care center on the first floor of Lee Hall is available when Lee Hall is open and offers students:
 <ul>
  	<li>free access to disposable thermometers</li>
  	<li>small quantities of over-the-counter remedies for colds, headaches, and other minor ailments</li>
  	<li>condoms</li>
- 	<li>a large selection of literature on a variety of topics ranging from cold care to body art.</li>
+ 	<li>a large selection of literature on a variety of topics ranging from cold care to body art.</li>
 </ul>
 Other services available for small additional fees include
 <ul>
@@ -34,7 +34,7 @@ Other services available for small additional fees include
  	<li>a weekly women’s clinic for gynecologic care, contraceptive counseling, and prescriptions</li>
  	<li>lab work (both on site and by referral to local medical labs)</li>
  	<li>referrals for x-rays and diagnostic imaging procedures</li>
- 	<li>prescription medications</li>
+ 	<li>a selection of prescription medications prescribed by our providers</li>
 </ul>
 <h2>Talley Center for Counseling Services</h2>
 Good health involves more than just your body. Managing stress, attending to your emotions, developing as an individual, and building resilience all contribute to psychological well-being; an important part of staying healthy. The <a href="https://students.umw.edu/counseling/">Talley Center</a> offers brief individual therapy and group counseling to full-time degree-seeking students. Crisis intervention, consultation, educational programming, and referral services are open to the entire UMW community.
