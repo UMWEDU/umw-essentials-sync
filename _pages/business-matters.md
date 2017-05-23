@@ -23,7 +23,9 @@ Wear and share your Eagle pride! The store boasts a wide selection of UMW clothi
 
 <strong>**Textbook Reservations for First-Semester Students</strong>
 
-First semester students are eligible for the added convenience of textbook reservations. With a deposit of $700 to the student’s Eagle One card, the Bookstore team will gather students’ required books based upon their schedule, and the books will be available in the residence hall for pick up on move-in day.
+The Textbook Reservation Program allows you to reserve your textbooks for easy pre-semester delivery. It is offered the first semester only to incoming freshmen and transfer students. The University Bookstore will obtain your schedule, gather your books, and debit your EagleOne Account. Your books will be in your residence hall on move-in day. Beginning May 15 2017, students wishing to participate in the Textbook Reservation program can do so without physically having an EagleOne Card. An EagleOne debit account has already been established and linked to the card prior to receiving it. To take advantage of the Textbook Reservation Program, deposit $700.00 into your EagleOne account using a Visa or MasterCard through <u>MYUMW </u>or send a check (made out to UMW) with the Textbook Reservation mail in form before the deadline of July 23, 2017.
+
+&nbsp;
 <h3>Copy Center</h3>
 For a nominal fee, you may take care of all your personal copying and printing needs and send or receive faxes at the <a href="http://adminfinance.umw.edu/copies/">UMW Copy Center</a>, located in Lee Hall, Room 211. Options include transparencies, laminations, specialty paper, personalized stationery, binding, labeling, shredding, inserting, collating, scanning, and digital photo processing.
 <h3>Financial Aid</h3>
