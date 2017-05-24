@@ -16,7 +16,7 @@ For more information regarding the topics below, and other financial aid options
 <h3>How can I access my/my student’s financial aid information?</h3>
 When a student enters college, their financial aid information is considered protected information under FERPA (Family Educational Rights and Privacy Act). However, a student can designate a parent or other third party to be able to access the UMW system to view the student’s financial aid award and requirement status. The sign up is available through myUMW’s Eagle Gateway. Instructions for delegated access sign-up are contained in the award letter guide that accompanied your award letter.  Without student consent, Financial Aid representatives are unable to speak to parents or other third parties regarding the student's financial aid award and requirements.
 <h3>What are the costs for 2017-2018?</h3>
-Current <a href="https://www.umw.edu/financialaid/process/cost-of-attendance/">estimated costs for 2017-20178</a> can be found on our Financial Aid website.
+Current <a href="https://www.umw.edu/financialaid/process/cost-of-attendance/">estimated costs for 2017-2018</a> can be found on our Financial Aid website.
 <h3>When will my bill be due for the 2017-2018 year and what other options are available?</h3>
 Fall semester bills are due in late July 2017, and spring semester bills are due in November 2017. Payment plan options are available through the UMW Office of Student Accounts.
 <h3>I made a mistake on my FAFSA and have updated the information. Will this change my financial aid eligibility?</h3>
@@ -38,4 +38,4 @@ Eligibility for financial aid for the summer semester is based on the previous a
 <h3>What happens if a student withdraws from a semester prior to completion?</h3>
 Official withdrawals from academic courses occur through the UMW Office of the Registrar. Withdrawing from all courses in a semester will affect the amount of aid that students may be eligible for during that semester. As a result, it is possible that financial aid packages may be changed after the withdrawal date is known, which could result in a balance on the student’s University account. Students that are withdrawing are encouraged to visit the Office of Financial Aid to discuss any potential consequences.
 <h3>I am interested in working on campus. How do I apply?</h3>
-UMW has approximately 650 on campus jobs available to students each year. Students can view and apply for open jobs through the myUMW Student Employment portal.
+UMW has approximately 700 on campus jobs available to students each year. Students can view and apply for open jobs through the myUMW Student Employment portal.
