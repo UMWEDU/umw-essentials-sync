@@ -15,10 +15,10 @@ For more information regarding the topics below, and other financial aid options
 <h2>Frequently Asked Questions</h2>
 <h3>How can I access my/my student’s financial aid information?</h3>
 When a student enters college, their financial aid information is considered protected information under FERPA (Family Educational Rights and Privacy Act). However, a student can designate a parent or other third party to be able to access the UMW system to view the student’s financial aid award and requirement status. The sign up is available through myUMW’s Eagle Gateway. Instructions for delegated access sign-up are contained in the award letter guide that accompanied your award letter.  Without student consent, Financial Aid representatives are unable to speak to parents or other third parties regarding the student's financial aid award and requirements.
-<h3>What are the costs for 2016-2017?</h3>
-Current <a href="https://www.umw.edu/financialaid/process/cost-of-attendance/">estimated costs for 2016-2017</a> can be found on our Financial Aid website.
-<h3>When will my bill be due for the 2016-2017 year and what other options are available?</h3>
-Fall semester bills are due in late July 2016, and spring semester bills are due in November 2016. Payment plan options are available through the UMW Office of Student Accounts.
+<h3>What are the costs for 2017-2018?</h3>
+Current <a href="https://www.umw.edu/financialaid/process/cost-of-attendance/">estimated costs for 2017-20178</a> can be found on our Financial Aid website.
+<h3>When will my bill be due for the 2017-2018 year and what other options are available?</h3>
+Fall semester bills are due in late July 2017, and spring semester bills are due in November 2017. Payment plan options are available through the UMW Office of Student Accounts.
 <h3>I made a mistake on my FAFSA and have updated the information. Will this change my financial aid eligibility?</h3>
 Possibly. Need-based financial aid is based on the information in the FAFSA. Therefore, if the FAFSA is inaccurate, and an update is made, it can affect the amount of financial aid you receive. Keep in mind that during the FAFSA Verification process, if a Financial Aid representative finds that the FAFSA has incorrect information, they will correct that information, which could also result in a change in Financial Aid eligibility. Any time that a change is made to your financial aid package, you will be notified through your UMW email account.
 <h3>What if my FAFSA does not accurately represent my family’s financial situation?</h3>
