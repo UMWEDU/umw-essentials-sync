@@ -5,7 +5,7 @@ author: Digital Communications
 post_date: 2016-05-05 21:20:23
 post_excerpt: ""
 layout: page
-permalink: http://www.umw.edu/essentials/
+permalink: http://students.umw.edu/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
