@@ -1,12 +1,12 @@
 ---
 ID: 32
-post_title: 'First-Year Seminar &#038; Common Reading'
+post_title: 'First-Year Seminar &amp; Common Reading'
 author: Shelley Keith
 post_date: 2016-05-12 18:05:42
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/essentials/academics/first-year/
+  http://www.umw.edu/essentials/academics/first-year/
 published: true
 wpcf-home-page-grid-inclusion:
   - "0"
@@ -22,4 +22,4 @@ wpcf-home-page-grid-inclusion:
  	<li>development of writing and speaking skills</li>
 </ul>
 <h2>Common Reading</h2>
-At Orientation each new student will receive a copy of <em>Something Must Be Done About Prince Edward County </em>to read over the summer. This will serve as the foundation of a shared intellectual experience that will continue at <a href="http://orientation.umw.edu/newstudentwelcome/">New Student Arrival</a> with Common Reading discussions.
+At Orientation each new student will receive a copy of <em>Hidden Figures </em>to read over the summer. This will serve as the foundation of a shared intellectual experience that will continue at <a href="http://orientation.umw.edu/newstudentwelcome/">New Student Arrival</a> with Common Reading discussions.
