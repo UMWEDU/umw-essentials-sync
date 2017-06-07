@@ -12,7 +12,7 @@ wpcf-home-page-grid-inclusion:
   - "0"
 ---
 <h2>First-Year Seminar</h2>
-<a href="http://academics.umw.edu/fsem/">First-year seminar</a> courses introduce students to the pursuit of intellectual inquiry. Seminars are designed to foster interaction with outstanding faculty members while exploring nontraditional topics in nontraditional ways. One first-year seminar is required during your first semester on campus as part of UMW’s general education program. (Transfer students are not required to take a first-year seminar.) Specific topics will vary from course to course, but all promise...
+<a href="http://academics.umw.edu/fsem/">First-year seminar</a> courses, the backbone of the <a href="http://academics.umw.edu/fye/">First-Year Experience</a> at UMW, introduce students to the pursuit of intellectual inquiry. Seminars are designed to foster interaction with outstanding faculty members while exploring nontraditional topics in nontraditional ways. One first-year seminar is required during your first semester on campus as part of UMW’s general education program. (Transfer students are not required to take a first-year seminar.) Specific topics will vary from course to course, but all promise…
 <ul>
  	<li>college as you imagined it: a life of the mind taught by faculty</li>
  	<li>small classes, capped at 15 students each</li>
@@ -21,5 +21,7 @@ wpcf-home-page-grid-inclusion:
  	<li>critical examination of the class literature</li>
  	<li>development of writing and speaking skills</li>
 </ul>
-<h2>Common Reading</h2>
-At Orientation each new student will receive a copy of <em>Hidden Figures </em>to read over the summer. This will serve as the foundation of a shared intellectual experience that will continue at <a href="http://orientation.umw.edu/newstudentwelcome/">New Student Arrival</a> with Common Reading discussions.
+<h2>Common Read</h2>
+<span style="color: #333333;font-family: 'Helvetica',sans-serif">At Orientation each new student will receive a copy of the <a href="http://academics.umw.edu/fye/common-read/">common read</a> book <em><span style="font-family: 'Helvetica',sans-serif">Hidden Figures </span></em>to read over the summer. This will serve as the foundation of a shared intellectual experience that will continue at new student arrival with Common Read discussions.</span>
+
+&nbsp;
