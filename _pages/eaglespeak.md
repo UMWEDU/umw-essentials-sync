@@ -2,14 +2,12 @@
 ID: 9
 post_title: 'EagleSpeak: The UMW Glossary'
 author: Emily
-post_date: 2016-05-11 19:02:10
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/essentials/eaglespeak/
+  http://www.umw.edu/essentials/eaglespeak/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-05-11 19:02:10
 ---
 <a href="http://technology.umw.edu/hss/banner/"><strong>BANNER SSB (Self-Service Banner</strong></a><strong>)</strong>– an online administrative system that provides personal information and transactions such as:
 <ul>
@@ -84,8 +82,6 @@ wpcf-home-page-grid-inclusion:
 
 <strong>JEFFERSON SQUARE </strong>– lawn between Jefferson, Bushnell, and Combs halls, referred to as “Jeffy.”
 
-<strong>JRB </strong>– <a href="http://students.umw.edu/judicialaffairs/judicial-review-board/">Judicial Review Board</a>; holds hearings and issues sanctions regarding violations of the community standards, such as alcohol offenses and property damage.
-
 <strong>The LINK </strong>– connecting area between Mason and Randolph halls.
 
 <strong>LEE HALL </strong>– houses essential student services, the University Bookstore, and The Underground.
@@ -100,7 +96,9 @@ wpcf-home-page-grid-inclusion:
 
 <strong>SEACO </strong>– nickname for Seacobeck Hall, the former campus dining facility.
 
-<strong>SGA </strong>– <a href="http://sga.umw.edu/">Student Government Association</a>, which includes the <a href="http://students.umw.edu/fredericksburghonorcouncil/">Honor Council</a>, <a href="http://students.umw.edu/judicialaffairs/judicial-review-board/">Judicial Review Board</a>, Legislative Action Committee, Academic Affairs Council, Association of Residence Halls, Senate, and Commuting Student Association.
+<strong>SGA </strong>– <a href="http://sga.umw.edu/">Student Government Association</a>, which includes the <a href="http://students.umw.edu/fredericksburghonorcouncil/">Honor Council</a>, <a href="http://students.umw.edu/studentconduct/judicial-review-board/">SCRIB</a>, Legislative Action Committee, Academic Affairs Council, Association of Residence Halls, Senate, and Commuting Student Association.
+
+<strong>Student Conduct Review Board</strong> (<strong>SCRIB)</strong> - holds hearings and issues sanctions regarding violations of the community standards, such as alcohol offenses and property damage.
 
 <strong>TRI-MO</strong> - Residence Hall complex consisting of Madison, Ball, and Custis Halls (Tri), along with Westmoreland Hall (-mo)
 
