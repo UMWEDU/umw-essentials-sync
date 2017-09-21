@@ -11,7 +11,7 @@ post_date: 2016-05-11 20:02:59
 ---
 Your official UMW identification card is called the <a href="http://adminfinance.umw.edu/eagleone/attention-incoming-freshman-and-transfers/">EagleOne card</a>. You may submit your photo through the Eagle Gateway portal on <a href="https://banner.umw.edu/ssomanager/c/SSB?pkg=umw_id_photo.p_display_channel">myUMW </a>from March 15th to May 31st for pick up at June Orientation or from July 1st to August 11th  to pick up your card once you’re here in the fall. You may also stop by the EagleOne Card Center in Lee Hall to have your photo taken and receive your card. You must bring a valid, government-issued photo ID in order to receive your EagleOne card.
 
-<span style="color: #1f497d; font-family: 'Georgia',serif;"> </span>The card has myriad uses on campus and should be carried at all times to...
+The card has myriad uses on campus and should be carried at all times to...
 <ul>
  	<li>access your residence hall, fitness center, labs, and numerous campus events</li>
  	<li>borrow books from <a href="http://libraries.umw.edu/">Simpson Library</a> and pay library fees</li>
