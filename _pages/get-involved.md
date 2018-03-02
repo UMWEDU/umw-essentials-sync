@@ -2,17 +2,15 @@
 ID: 53
 post_title: Get Involved!
 author: Emily
-post_date: 2016-05-17 13:50:32
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/essentials/contacts/get-involved/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-05-17 13:50:32
 ---
 <h2>Athletics</h2>
-UMW is a proud member of the <a href="http://www.ncaa.org/about?division=d3">NCAA Division III</a> and is renowned as one of the strongest broad-based programs in the nation. Of the 23 sports at UMW, 20 have competed in national championship events, and the <a href="http://www.umweagles.com/landing/index">Eagles</a> have brought home national titles in five sports. As a charter member of the <a href="http://cacsports.com/landing/index">Capital Athletic Conference (CAC)</a>, the <a href="http://www.umweagles.com/landing/index">Eagles</a> have won the CAC All-Sports Award 12 times in the 27-year history of the league. UMW also has produced hundreds of All-America selections, and countless all-region and all-conference picks.
+UMW is a proud member of the <a href="http://www.ncaa.org/about?division=d3">NCAA Division III</a> and is renowned as one of the strongest broad-based programs in the nation. Of the 23 sports at UMW, 21 have competed in national championship events, and the <a href="http://www.umweagles.com/landing/index">Eagles</a> have brought home national titles in five sports. As a charter member of the <a href="http://cacsports.com/landing/index">Capital Athletic Conference (CAC)</a>, the <a href="http://www.umweagles.com/landing/index">Eagles</a> have won the CAC All-Sports Award 12 times in the 27-year history of the league. UMW also has produced hundreds of All-America selections, and countless all-region and all-conference picks.
 
 As a DIII institution, we do not offer athletic scholarships, nor do we utilize the national letter of intent program. However, all of our sports are very competitive, and spots on the rosters are not taken for granted. Have a thorough and complete conversation with your head coach about where he or she sees you on the team. There may be an expectation of some level of tryout. All roster spots are evaluated annually, based on criteria such as academic and athletic performance, team commitment, and social responsibility. If you have any questions about where you stand or what the expectations will be, please direct them to your head coach.
 
