@@ -2,14 +2,12 @@
 ID: 54
 post_title: Resources
 author: Emily
-post_date: 2016-05-17 14:07:09
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/essentials/life-at-umw/resources/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-05-17 14:07:09
 ---
 <h2><img class="size-medium wp-image-100 aligncenter" src="http://www.umw.edu/essentials/wp-content/uploads/sites/39/2016/05/Jack-Harmon-AIFS-FA15-Jumping-2-300x170.jpg" alt="jack-harmon-aifs-fa15-jumping" width="300" height="170" />Center for International Education - Education Abroad<img class="alignright wp-image-93 size-medium" src="http://www.umw.edu/essentials/wp-content/uploads/sites/39/2016/05/Maggie-Tuite-Milan-SP16-13-1-300x300.jpg" alt="maggie-tuite-milan-sp16-13" width="300" height="300" /></h2>
 Every year hundreds of University of Mary Washington students <a href="http://international.umw.edu/study-abroad-2/">study abroad</a> at some of the world’s most prestigious universities while earning credit toward their UMW degrees. The intercultural skills and self-confidence students acquire while abroad set study abroad alumni apart to potential employers and graduate schools, which are increasingly seeking globally educated, trained, and experienced candidates.
@@ -59,4 +57,4 @@ The University of Mary Washington continually and actively seeks a rich blend of
 <h2>Judicial Affairs and Community Responsibility</h2>
 The <a href="http://students.umw.edu/judicialaffairs/judicial-review-board/">Office of Judicial Affairs and Community Responsibility</a> (OJACR) helps students to have the best possible living and learning experience at UMW. This is a community in which students accept responsibility for their actions. However, when potentially disruptive or harmful situations arise – for example, irresponsible use of alcohol, possession or use of illegal drugs, serious interpersonal conflicts (including hazing or bullying), relationship violence, vandalism, or noise disturbances – they need to be addressed. Through education, through bystander intervention, and through a hearing process, students learn that their behavior has an impact on others. Students whose experiences at UMW have been compromised by the behavior of others should view OJACR as a resource and as an advocate for their rights. OJACR can be reached at 540/654-1660 and is located in Marye House. For information on UMW’s <a href="http://www.boarddocs.com/va/umw/Board.nsf/goto?open&amp;id=93QKQ352EB3D">Policy on Sexual- and Gender-based Harassment</a>, including sexual assault, and on how to get support if you are a survivor, please see UMW's <a href="http://diversity.umw.edu/title-ix">Title IX website</a>.
 <h2>Veterans Resource Center</h2>
-The <a href="http://students.umw.edu/veterans/veterans-resource-center/">Veterans Resource Center</a> is located in Combs Hall, room B24, and provides a space for veteran students to connect with one another, study, or access resource materials.
+The <a href="http://students.umw.edu/veterans/veterans-resource-center/">Veterans Resource Center</a> is located in the University Center, Room 114A, and provides a space for veterans and military-connected students to gather informally, study and socialize.
