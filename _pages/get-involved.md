@@ -94,13 +94,11 @@ Email: <a href="mailto:fathervaccaro@umwccm.org">fathervaccaro@umwccm.org
 </tr>
 </tbody>
 </table>
-<h2>Center for Honor, Leadership, and Service</h2>
-<h4>Turn your passion into action!</h4>
-Mary Washington is a special place, one marked by mutual trust, respect, and engagement with our community. Our words, actions, and relationships affect others, regardless of our roles or the positions we hold. At the <a href="http://students.umw.edu/chls/n-e-s-t/">Center for Honor, Leadership, and Service (CHLS)</a>, we nurture our culture through community service, honorable behavior, and leadership development. <em>The staff and students of CHLS are committed to helping everyone at UMW be the change they wish to see in the world and turn their passion into action.</em>
+&nbsp;
 <h4>Love community service?</h4>
 In the <a href="http://students.umw.edu/coar/">Community Outreach and Resources office, (COAR),</a> students organize service opportunities for students. COAR has nearly 20 weekly ongoing programs that include tutoring and mentoring children and teens, building with Habitat for Humanity, spending time with the elderly and animals, and working on environmental projects. COAR also sponsors on-campus service programs for the community such as a trick-or-treat in the fall and an egg hunt in the spring. Whether volunteering on your own or with a group, COAR is a great place to start!
-<h4>Horizons</h4>
-<a href="http://students.umw.edu/chls/welcome-2/horizons/">Horizons</a> is a year-long program that offers students the opportunity to engage, learn, and grow at UMW.  Grounded in the core values of honor, leadership, and service, students in <a href="http://students.umw.edu/chls/welcome-2/horizons/">Horizons</a> are active on campus and in our community, learn about themselves, reflect on their own goals and values, and grow as leaders and citizens.  Through innovative practices, students are challenged to connect a liberal arts education to “real world” skills, learning lessons that will benefit them for the rest of their lives.
+
+&nbsp;
 <h2>Clubs and Organizations</h2>
 Be the president of your own club – it’s easy to start a special interest group. Or, be an officer or member of an established club – they’re open to all interested students. Club members develop leadership, organizational, and interpersonal skills that can translate into experiences that can be listed on your future resume. Visit <a href="http://students.umw.edu/studentactivities/">Student Activities and Engagement</a> in the University Center, 3<sup>rd</sup> floor.
 <h2>Concerts!  Movies!  Traditions!</h2>
