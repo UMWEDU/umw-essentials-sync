@@ -9,8 +9,16 @@ permalink: >
 published: true
 post_date: 2016-05-17 14:07:09
 ---
-<h2><img class="size-medium wp-image-100 aligncenter" src="http://www.umw.edu/essentials/wp-content/uploads/sites/39/2016/05/Jack-Harmon-AIFS-FA15-Jumping-2-300x170.jpg" alt="jack-harmon-aifs-fa15-jumping" width="300" height="170" />Center for International Education - Education Abroad<img class="alignright wp-image-93 size-medium" src="http://www.umw.edu/essentials/wp-content/uploads/sites/39/2016/05/Maggie-Tuite-Milan-SP16-13-1-300x300.jpg" alt="maggie-tuite-milan-sp16-13" width="300" height="300" /></h2>
-Every year hundreds of University of Mary Washington students <a href="http://international.umw.edu/study-abroad-2/">study abroad</a> at some of the world’s most prestigious universities while earning credit toward their UMW degrees. The intercultural skills and self-confidence students acquire while abroad set study abroad alumni apart to potential employers and graduate schools, which are increasingly seeking globally educated, trained, and experienced candidates.
+&nbsp;
+
+&nbsp;
+<h2><img class="wp-image-105  aligncenter" src="http://www.umw.edu/essentials/wp-content/uploads/sites/39/2018/04/Hanging-150-prayer-flag-string-group-shot-at-Pharping-300x199.jpg" alt="" width="424" height="281" /></h2>
+<h2><img class="wp-image-107  alignleft" src="http://www.umw.edu/essentials/wp-content/uploads/sites/39/2018/04/Kolemann_Bilbao_Guggenheim-300x300.jpg" alt="" width="165" height="165" /></h2>
+<h2><img class="wp-image-106  alignright" src="http://www.umw.edu/essentials/wp-content/uploads/sites/39/2018/04/Karen-Smith_NZ_Hobbiton-300x246.jpg" alt="" width="199" height="163" /></h2>
+<h2></h2>
+<h2></h2>
+<h2 style="text-align: center">Center for International Education - Education Abroad</h2>
+Every year hundreds of University of Mary Washington students <a href="http://international.umw.edu/study-abroad-2/">study abroad</a> at some of the world’s most prestigious universities while earning credit toward their UMW degrees. The intercultural skills and self-confidenc<img class="wp-image-104  alignright" src="http://www.umw.edu/essentials/wp-content/uploads/sites/39/2018/04/Holly-Irwin_OperaGarnierHISPFrance-257x300.jpg" alt="" width="267" height="312" />e students acquire while abroad set study abroad alumni apart to potential employers and graduate schools, which are increasingly seeking globally educated, trained, and experienced candidates.
 
 CIE encourages interested students to drop by for a personal advising session with a <a href="http://international.umw.edu/peeradvisors">Peer Advisor</a> to learn more about <a href="http://international.umw.edu/fac-led">Faculty-Led Programs</a>, <a href="http://international.umw.edu/exchange">Exchange Programs</a>, and <a href="http://international.umw.edu/approved">UMW Approved Programs</a>.  Students may also consider international <a href="http://international.umw.edu/study-abroad-2/program-search/internships-abroad-2/">internships</a>, <a href="http://international.umw.edu/study-abroad-2/program-search/volunteer-abroad-2/">volunteer</a>, and <a href="http://international.umw.edu/research">research</a> abroad options. UMW students can study abroad for a semester or academic year, over the summer, or during the spring and winter breaks to earn academic credits toward their graduation requirements.
 <h3>International Student Services</h3>
