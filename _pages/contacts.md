@@ -8,7 +8,7 @@ permalink: http://www.umw.edu/essentials/contacts/
 published: true
 post_date: 2016-05-11 18:44:31
 ---
-<table width="99%">
+<table style="height: 1122px" width="848">
 <tbody>
 <tr>
 <th>Department</th>
@@ -47,11 +47,7 @@ post_date: 2016-05-11 18:44:31
 <td>654-1251 or 1247</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="http://international.umw.edu">Center for International Education</a></td>
+<td> <a href="http://international.umw.edu">Center for International Education</a></td>
 <td>654-1434</td>
 </tr>
 <tr>
@@ -159,6 +155,10 @@ From cell, dial 540/654-4444</td>
 <tr>
 <td><a href="http://academics.umw.edu/writing-fredericksburg">Writing Center</a></td>
 <td>654-1036</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
