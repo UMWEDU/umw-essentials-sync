@@ -2,13 +2,11 @@
 ID: 7
 post_title: Contacts
 author: Emily
-post_date: 2016-05-11 18:44:31
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/essentials/contacts/
+permalink: http://www.umw.edu/essentials/contacts/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-05-11 18:44:31
 ---
 <table width="99%">
 <tbody>
@@ -49,8 +47,8 @@ wpcf-home-page-grid-inclusion:
 <td>654-1251 or 1247</td>
 </tr>
 <tr>
-<td><a href="http://students.umw.edu/chls">Center for Honor, Leadership &amp; Service</a></td>
-<td>654-2272</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td><a href="http://international.umw.edu">Center for International Education</a></td>
