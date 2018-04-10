@@ -14,6 +14,7 @@ post_date: 2016-05-17 14:07:09
 <h2><img class="wp-image-106 alignright" src="http://www.umw.edu/essentials/wp-content/uploads/sites/39/2018/04/Karen-Smith_NZ_Hobbiton-300x246.jpg" alt="" width="199" height="163" /></h2>
 <h2></h2>
 <h2></h2>
+&nbsp;
 <h2 style="text-align: center">Center for International Education - Education Abroad</h2>
 Every year hundreds of University of Mary Washington students <a href="http://international.umw.edu/study-abroad-2/">study abroad</a> at some of the world’s most prestigious universities while earning credit toward their UMW degrees. The intercultural skills and self-confidenc<img class="wp-image-104 alignright" src="http://www.umw.edu/essentials/wp-content/uploads/sites/39/2018/04/Holly-Irwin_OperaGarnierHISPFrance-257x300.jpg" alt="" width="274" height="320" />e students acquire while abroad set study abroad alumni apart to potential employers and graduate schools, which are increasingly seeking globally educated, trained, and experienced candidates.
 
