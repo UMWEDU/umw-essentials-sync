@@ -2,28 +2,17 @@
 ID: 23
 post_title: 'New Student Arrival &amp; Programs'
 author: Shelley Keith
-post_date: 2016-05-12 14:21:50
 post_excerpt: ""
 layout: page
 permalink: >
   http://www.umw.edu/essentials/new-student/
 published: true
-wpcf-home-page-grid-inclusion:
-  - "1"
-wpcf-homepage-copy:
-  - |
-    Now let's get you on campus and in your home away from home.
-    <ul>
-    <li><a href="https://www.umw.edu/essentials/new-student/#nest">N.E.S.T.</a> new-student transition program with ice breakers &amp; excursions</li>
-    <li><a href="https://www.umw.edu/essentials/new-student/#movein">Move-In</a></li>
-    <li><a href="https://www.umw.edu/essentials/new-student/#newstudent">New Student Arrival &amp; Welcome</a></li>
-    <li><a href="https://www.umw.edu/essentials/new-student/#rise">RISE Peer Mentors</a></li>
-    </ul>
+post_date: 2016-05-12 14:21:50
 ---
 <h2 id="nest">N.E.S.T. Pre-Arrival Program</h2>
 If you want an early connection to UMW campus culture and activities, consider the pre-arrival program <a href="http://students.umw.edu/chls/n-e-s-t/">N.E.S.T. (New Experiences for Students Transitioning</a>).  This program spans August 20-23 and offers a unique opportunity to get a jump on exploring UMW and surrounding attractions as well as bonding with fellow students. <strong>Space is limited, and there is an associated cost.  </strong>To register or learn more, visit the <a href="http://students.umw.edu/chls/n-e-s-t/">N.E.S.T. website </a>or call (540) 654-2272.
 <h2 id="movein">Move-In</h2>
-New students can move into residence halls from 8:00 a.m. to 12:00 p.m. on Wednesday, August 23.  Returning residential students can <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">move into their assigned residence halls </a>from 8 a.m. to 12:00 p.m. on Saturday, August 26.<strong>
+New students can move into residence halls from 8:00 a.m. to 2:00 p.m. on Wednesday, August 22.  Returning residential students can <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">move into their assigned residence halls </a>from 8 a.m. to 12:00 p.m. on Saturday, August 26.<strong>
 </strong>
 <h3>Move-in Tips</h3>
 <ul>
