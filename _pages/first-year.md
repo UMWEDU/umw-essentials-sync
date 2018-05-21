@@ -20,7 +20,7 @@ post_date: 2016-05-12 18:05:42
  	<li>development of writing and speaking skills</li>
 </ul>
 <h2>Common Read</h2>
-<span style="color: #333333"><span style="color: black">UMW has selected <strong>Dear Evan Hansen</strong> text and accompanying soundtrack as the UMW <span id="0.6824107628560325"><span class="highlight">Common</span></span> Experience for 2018-2019 academic year.  <strong>Dear Evan Hansen </strong>is a 2015 stage musical with a very popular soundtrack that features a high school student with social anxiety that struggles to make social connections. </span>At Orientation each new student will receive a copy of the <a href="http://academics.umw.edu/fye/common-read/">common read</a> book to read over the summer. This will serve as the foundation of a shared intellectual experience that will continue at new student arrival with Common Read discussions.</span>
+<span style="color: #333333"><span style="color: black">UMW has selected <em>Dear Evan Hansen</em> text and accompanying soundtrack as the UMW <span id="0.6824107628560325"><span class="highlight">Common</span></span> Experience for 2018-2019 academic year.  <em>Dear Evan Hansen </em>is a 2015 stage musical with a very popular soundtrack that features a high school student with social anxiety that struggles to make social connections. </span>At Orientation each new student will receive a copy of the <a href="http://academics.umw.edu/fye/common-read/">common read</a> book to read over the summer. This will serve as the foundation of a shared intellectual experience that will continue at new student arrival with Common Read discussions.</span>
 
 &nbsp;
 
