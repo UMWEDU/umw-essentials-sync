@@ -5,7 +5,7 @@ author: Emily
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.umw.edu/essentials/academics/academic-calendar/
+  http://www.umw.edu/essentials/academics/http-academics-umw-edu-calendar/
 published: true
 post_date: 2016-05-11 19:43:19
 ---
