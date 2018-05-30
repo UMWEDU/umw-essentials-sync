@@ -4,8 +4,7 @@ post_title: Academic Calendar
 author: Emily
 post_excerpt: ""
 layout: page
-permalink: >
-  http://www.umw.edu/essentials/academics/https-www-umw-edu-essentials-academics-academic-calendar/
+permalink: http://www.umw.edu/essentials/
 published: true
 post_date: 2016-05-11 19:43:19
 ---
