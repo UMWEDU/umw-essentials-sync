@@ -17,28 +17,30 @@ As a DIII institution, we do not offer athletic scholarships, nor do we utilize 
 All potential student-athletes must meet NCAA eligibility, complete mandatory athletic training and, NCAA forms, and register for the PHYD 400-level course corresponding to their sport. Please contact the head coach directly if you have not received instructions to complete paperwork. All forms are digital and must be completed by August 1 for the fall semester and Jan. 1 for the spring semester.
 <h2>Campus Recreation and Sport Clubs</h2>
 <h3>Campus Recreation:</h3>
-The Department of <a href="http://students.umw.edu/campusrec">Campus Recreation</a> focuses on helping all students improve their overall wellness during their time at UMW. Physical activity is a crucial piece of wellness because it relieves stress, improves mental health and mood, is linked to better academic performance, and is a great way to socialize. Campus Recreation encourages students to find activities they enjoy that keep them moving in a variety of ways. If you're looking for Campus Rec, Stop by the  <a href="http://students.umw.edu/campusrec/facilities/fitness-center/">Fitness Center</a>, located at the Eagle Village side of Campus Walk.  At the Fitness Center, you will find updated cardio and strength equipment, an Olympic training platform, a  stretching area, and more.
+The Department of <a href="http://students.umw.edu/campusrec">Campus Recreation</a> focuses on helping all students improve their overall wellness during their time at UMW. Physical activity is a crucial piece of wellness because it relieves stress, improves mental health and mood, is linked to better academic performance, and is a great way to socialize. Campus Recreation encourages students to find activities they enjoy that keep them moving in a variety of ways. If you’re looking for Campus Rec, stop by the <a href="http://students.umw.edu/campusrec/facilities/fitness-center/">Fitness Center</a>, located at the Eagle Village side of Campus Walk.  At the Fitness Center, you will find updated cardio and strength equipment, an Olympic training platform, a stretching area, and more.
 <h3>Intramural Sports:</h3>
-A field complex with synthetic surfaces and advanced lighting supports intramural and sport club offerings. <a href="http://students.umw.edu/campusrec/imsports/">Intramurals </a>range from one-day backyard game tournaments to month-long flag football leagues.  Registration is easy-just visit the Campus Recreation website.
-<h3 style="text-align: left">Sport Clubs:</h3>
-<a href="http://students.umw.edu/campusrec/sportclubs/">Sport clubs</a> are a great way to stay active and involved in the UMW community without the time commitment necessary for varsity athletics. Students compete locally, regionally, and nationally.  Clubs are student run, practice two to three times per week, and compete a minimum of three times per year.  See our website for a complete listing of sport clubs.
-<h3><strong> Fitness Programs:</strong></h3>
-Group fitness classes are free at UMW and Campus Rec offers many popular formats such as Zumba, Yoga, Cycle, Cardio Kickboxing, Barre, Strength, and more. If you’re looking for a more personalized fitness experience, personal training and small group training opportunities are also available at an additional cost.
-<h3><strong>Student Employees Welcome!</strong></h3>
-Campus Recreation is the second largest <a href="http://students.umw.edu/campusrec/employment/">employer of students.</a>  Students work at the Fitness Center as Fitness Center attendants, group fitness instructors, personal trainers, or intramural officials. There are also opportunities for students to become certified personal trainers or group fitness instructors!  Applications are available on our <a href="http://students.umw.edu/campusrec/employment/">website.</a>
-<h3>Visit the Fitness Center!</h3>
+<a href="http://students.umw.edu/campusrec/imsports/">Intramurals </a>are a great way to stay active in sports and socialize!  Activities range from one-day tournaments to month-long sport leagues.  Sport offerings range from the traditional basketball, soccer and football to your less traditional offerings such as dodgeball and canoe battleship. There's a bit of everything for everyone at Intramural Sports. Winners of activities will receive a coveted IM Champ Shirt.
+<h3>Sport Clubs:</h3>
+<a href="http://students.umw.edu/campusrec/sportclubs/">Sport clubs</a> are a great way to stay active and involved in the UMW community without a large time commitment. Students compete locally, regionally, and nationally.  Clubs are student run, practice two to three times per week, and compete a minimum of three times per year.  See our website for a complete listing of sport clubs.
+<h3>Outdoor Recreation:</h3>
+<a href="http://students.umw.edu/campusrec/outdoor-recreation/outdoor-trips/">Outdoor Recreation</a> is the perfect way to explore surrounding Fredericksburg, and Virginia outdoors and experience fitness and wellness from a different perspective. Activities are seasonal and can range from trips such as hikes, indoor rock climbing, and caving to on-campus special events. The activities are designed to not just build an affection towards the outdoors; but to promote, preserve, inspire and create an ethos of sustainable environmental stewardship through application of Leave No Trace principles and other practices.
+<h3>Fitness Programs:</h3>
+Campus Recreation offers over 30 group fitness classes each week, including Zumba, Yoga, Cycle, Cardio Kickboxing, Barre, Strength, and more. Students have the opportunity to purchase an annual fitness pass that grants access to every class on the group fitness schedule, which changes each semester. If you’re looking for a more individualized fitness experience, personal training is also available at an affordable rate.
+
+Student Employees Welcome!
+
+Campus Recreation is the second largest <a href="http://students.umw.edu/campusrec/employment/">employer of students.</a>  Students work for Campus Recreation as Fitness Center attendants, group fitness instructors, personal trainers, intramural officials, outdoor recreation trip leaders, lifeguards, swim instructors, and more. There are also opportunities for students to become certified personal trainers or group fitness instructors!  Applications are available on our <a href="http://students.umw.edu/campusrec/employment/">website.</a>
+
+<strong>Visit the Fitness Center!</strong>
+
 <strong>Regular semester hours: </strong>
 
-Monday-Thursday:  7 a.m. - 10:30 p.m.
-Friday:  7 a.m. -8 p.m.
-Saturday:  11 a.m. - 8 p.m.
+Monday-Thursday:  7 a.m. - 10:30 p.m.
+Friday:  7 a.m. - 8 p.m.
+Saturday-Sunday:  11 a.m. - 8 p.m.
 
-Sunday:  11 a.m. – 10:30 p.m.
-
-<span style="font-family: 'Georgia',serif"><span style="color: #000000"> </span></span>
-
-<span style="font-family: 'Georgia',serif"><span style="color: #000000"> </span></span>
-<h3>Arts at UMW</h3>
+&nbsp;
+<h2>Arts at UMW</h2>
 Whether you take a studio art class, join the orchestra, audition for a play, or sing and dance, you can be part of a vibrant aspect of life at UMW. Contact Prof. Gregg Stull (gstull@umw.edu) about theater, dance, or music; or Prof. Carole Garmon (cgarmon@umw.edu) about studio art or art history.
 <h2>Campus Ministries</h2>
 As a public institution, the University of Mary Washington does not have a denominational affiliation. We know, however, that religious traditions are important to many students and encourage students to reach out to the leaders of several vibrant campus ministries and student organizations listed here:
