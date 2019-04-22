@@ -2,16 +2,12 @@
 ID: 39
 post_title: 'Student Accounts &#038; Tuition'
 author: Shelley Keith
-post_date: 2016-05-12 18:51:28
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/essentials/business-matters/accounts/
+  http://www.umw.edu/essentials/business-matters/accounts/
 published: true
-yst_prominent_words_version:
-  - "1"
-wpcf-home-page-grid-inclusion:
-  - "0"
+post_date: 2016-05-12 18:51:28
 ---
 For additional information please visit the <a href="http://adminfinance.umw.edu/studentaccounts/billing-information/">Student Accounts website</a> or call 540-654-1250.
 
@@ -56,7 +52,7 @@ To enroll an Authorized Payer:
 <h2>Direct Deposit</h2>
 Are you expecting a refund from your student account or financial aid? Sign up for direct deposit! Normally paper refund checks are sent to your campus mailbox, which you may share with other students. UMW highly recommends that students sign up for direct deposit so that the funds can go directly into the student’s bank account. Direct deposit can help avoid additional delay in mailing a check. To register for direct deposit, follow the instructions below. You will receive an email when funds are transmitted, but keep in mind that it can take 3-4 business days from the time of transmittal and email for the funds to be deposited and available.
 <ul>
- 	<li>Click on <a href="https://auth.umw.edu/cas/login?service=https%3A%2F%2Forgsync.com%2Fcas%2Funiversity-of-mary-washington">myUMW</a></li>
+ 	<li>Click on <a href="https://www.umw.edu/myumw/">myUMW</a></li>
  	<li>Enter UMW log-in information</li>
  	<li>Click on Eagle Gateway, under “Featured”</li>
  	<li>Go to the navy blue tab labeled “Finances”</li>
