@@ -35,8 +35,8 @@ Campus Recreation is the second largest <a href="http://students.umw.edu/campus
 
 <strong>Regular semester hours: </strong>
 
-Monday-Thursday:  7 a.m. - 10:30 p.m.
-Friday:  7 a.m. - 8 p.m.
+Monday-Thursday:  6 a.m. - 10:30 p.m.
+Friday:  6 a.m. - 8 p.m.
 Saturday-Sunday:  11 a.m. - 8 p.m.
 <h2>Arts at UMW</h2>
 Whether you take a studio art class, join the orchestra, audition for a play, or sing and dance, you can be part of a vibrant aspect of life at UMW. Contact Prof. Gregg Stull (gstull@umw.edu) about theater, dance, or music; or Prof. Carole Garmon (cgarmon@umw.edu) about studio art or art history.
