@@ -29,7 +29,7 @@ Campus Recreation offers over 30 group fitness classes each week, including Zu
 
 Student Employees Welcome!
 
-Campus Recreation is the second largest <a href="http://students.umw.edu/campusrec/employment/">employer of students.</a>  Students work for Campus Recreation as Fitness Center attendants, group fitness instructors, personal trainers, intramural officials, outdoor recreation trip leaders, lifeguards, swim instructors, and more. There are also opportunities for students to become certified personal trainers or group fitness instructors!  Applications are available on our <a href="http://(https://careers.umw.edu/postings/search?utf8=%E2%9C%93&amp;query=&amp;query_v0_posted_at_date=&amp;435=&amp;440=&amp;1884=&amp;1885=&amp;1932=&amp;query_position_type_id=3&amp;commit=Search)">website</a>.
+Campus Recreation is the second largest <a href="http://students.umw.edu/campusrec/employment/">employer of students.</a>  Students work for Campus Recreation as Fitness Center attendants, group fitness instructors, personal trainers, intramural officials, outdoor recreation trip leaders, lifeguards, swim instructors, and more. There are also opportunities for students to become certified personal trainers or group fitness instructors!  Applications are available on our <a href="https://careers.umw.edu/postings/search?utf8=%E2%9C%93&amp;query=&amp;query_v0_posted_at_date=&amp;435=&amp;440=&amp;1884=&amp;1885=&amp;1932=&amp;query_position_type_id=3&amp;commit=Search">website</a>.
 
 <strong>Visit the Fitness Center!</strong>
 
