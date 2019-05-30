@@ -10,9 +10,9 @@ published: true
 post_date: 2016-05-12 14:21:50
 ---
 <h2 id="nest">N.E.S.T. Pre-Arrival Program</h2>
-If you want an early connection to UMW campus culture and activities, consider the pre-arrival program <a href="http://students.umw.edu/chls/n-e-s-t/">N.E.S.T. (New Experiences for Students Transitioning</a>).  This program spans August 20-23 and offers a unique opportunity to get a jump on exploring UMW and surrounding attractions as well as bonding with fellow students. <strong>Space is limited, and there is an associated cost.  </strong>To register or learn more, visit the <a href="http://students.umw.edu/chls/n-e-s-t/">N.E.S.T. website </a>or call (540) 654-2272.
+If you want an early connection to UMW campus culture and activities, consider the pre-arrival program <a href="http://students.umw.edu/chls/n-e-s-t/">N.E.S.T. (New Experiences for Students Transitioning</a>).  This program spans August 18-21 and offers a unique opportunity to get a jump on exploring UMW and surrounding attractions as well as bonding with fellow students. <strong>Space is limited, and there is an associated cost.  </strong>To register or learn more, visit the <a href="http://students.umw.edu/chls/n-e-s-t/">N.E.S.T. website </a>or call (540) 654-2272.
 <h2 id="movein">Move-In</h2>
-New students can move into residence halls from 8:00 a.m. to 2:00 p.m. on Wednesday, August 22.  Returning residential students can <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">move into their assigned residence halls </a>from 8 a.m. to 12:00 p.m. on Saturday, August 25.<strong>
+New students can move into residence halls from 8:00 a.m. to 2:00 p.m. on Wednesday, August 21.  Returning residential students can <a href="http://www.umw.edu/residencelife/before-you-get-to-campus/move-in/">move into their assigned residence halls </a>from 8 a.m. to 12:00 p.m. on Saturday, August 24.<strong>
 </strong>
 <h3>Move-in Tips</h3>
 <ul>
@@ -21,12 +21,12 @@ New students can move into residence halls from 8:00 a.m. to 2:00 p.m. on Wedne
  	<li>It can be very warm in August. Dress appropriately.</li>
 </ul>
 <h2 id="newstudent">New Student Arrival and Welcome</h2>
-<a href="http://orientation.umw.edu/newstudentwelcome/">New Student Arrival and Welcome </a>begins on Wednesday, August 22, and encompasses several different programs to make your transition onto the UMW campus seamless.
+<a href="http://orientation.umw.edu/newstudentwelcome/">New Student Arrival and Welcome </a>begins on Wednesday, August 21, and encompasses several different programs to make your transition onto the UMW campus seamless.
 
 After students and families say goodbye to one another, students will begin four days of the new student welcome experience! Our newest Eagles can expect to be introduced to the UMW campus through a variety of programs, social events, and opportunities to connect with faculty and staff. You’ll learn about what it means to be an Eagle, find out how to navigate your way on campus, get to know more about your department and, of course, have a lot of fun!
 <h3>Welcome Activities!</h3>
 <ul>
- 	<li>Common Reading Discussions:<em><em>  <a href="http://academics.umw.edu/fye/common-read/"><u><span style="color: #0066cc">Dear Evan Hansen</span></u></a></em></em></li>
+ 	<li>Common Reading Discussions:<em><em>  <a href="https://academics.umw.edu/fye/common-read/"><u><span style="color: #0066cc">A Memoir</span></u></a></em></em></li>
  	<li>Club Carnival</li>
  	<li>Glow Zone Glow Party</li>
  	<li>Cross Cultural BBQ</li>
