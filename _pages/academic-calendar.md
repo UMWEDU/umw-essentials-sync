@@ -13,84 +13,86 @@ post_date: 2016-05-11 19:43:19
 <tbody>
 <tr>
 <th width="50%"></th>
-<th width="25%">Fall 2018</th>
-<th width="25%">Spring 2019</th>
+<th width="25%">Fall 2019</th>
+<th width="25%">Spring 2020</th>
 </tr>
 <tr>
 <td>Classes begin</td>
-<td>August 27</td>
-<td>January 14</td>
+<td>August 26</td>
+<td>January 13</td>
 </tr>
 <tr>
 <td>Last day to add courses</td>
-<td>August 31</td>
-<td>January 18</td>
+<td>August 30</td>
+<td>January 17</td>
 </tr>
 <tr>
 <td>Course-drop deadline (without a “W” grade)</td>
-<td>September 14</td>
-<td>February 1</td>
+<td>September 13</td>
+<td>January 31</td>
 </tr>
 <tr>
 <td>FAMILY WEEKEND</td>
-<td>September 14-16</td>
+<td>October 4-6</td>
 <td></td>
 </tr>
 <tr>
 <td>FALL/SPRING BREAK*</td>
-<td>October 13 (5 p.m.)-16</td>
-<td>March 1 (5 p.m.)-10</td>
+<td>October 12 (5 p.m.)-15</td>
+<td>February 28 (5 p.m.)- March 9</td>
 </tr>
 <tr>
 <td>HOMECOMING</td>
-<td>October 19-20</td>
+<td>October 18-19</td>
 <td></td>
 </tr>
 <tr>
 <td>Individual course withdrawal deadline</td>
-<td>October 26</td>
-<td>March 22</td>
+<td>October 25</td>
+<td>March 20</td>
 </tr>
 <tr>
 <td>Advance registration</td>
-<td>October 29</td>
-<td>March 25-April 5</td>
+<td>October 28</td>
+<td> March 23-April 3</td>
 </tr>
 <tr>
 <td>THANKSGIVING*</td>
-<td>November 21-25</td>
+<td>November 27-Decenber 1</td>
 <td></td>
 </tr>
 <tr>
 <td>Classes end/last day to withdraw</td>
-<td>December 7</td>
-<td>April 26</td>
+<td>December 6</td>
+<td>April 24</td>
 </tr>
 <tr>
 <td>Reading days</td>
-<td>December 8-9</td>
-<td>April 27-28</td>
+<td>December 7-8</td>
+<td>April 25-26</td>
 </tr>
 <tr>
 <td>Final exams</td>
-<td>December 10-14</td>
-<td>April 29-May 3</td>
+<td>December 9-13</td>
+<td>April 27-May 1</td>
 </tr>
 <tr>
-<td>WINTER BREAK (Dec. 15-Jan. 13, 2019)*</td>
-<td>December 15</td>
-<td>January 13</td>
+<td>WINTER BREAK (Dec. 14-Jan. 112, 2020)*</td>
+<td>December 14</td>
+<td></td>
 </tr>
 <tr>
 <td>COMMENCEMENT</td>
 <td></td>
-<td>May 11</td>
+<td>May 9</td>
 </tr>
 <tr>
 <td>Residence halls closed</td>
-<td>Nov. 21-25; Dec. 15, at 10 a.m.-Jan. 12;</td>
-<td>May 4 at 10 a.m. (except for graduates);
-May 12 (for graduates)</td>
+<td>Nov. 27-Dec. 1
+
+December 14, 10 a.m.-Jan. 12 9 a.m.</td>
+<td>May 2 at 10 a.m. (except for graduates);
+May 10 (for graduates)</td>
 </tr>
 </tbody>
 </table>
