@@ -49,12 +49,11 @@ As a public institution, the University of Mary Washington does not have a denom
 <td width="383"><strong>Contact</strong></td>
 </tr>
 <tr>
-<td width="313">Center for Faith &amp; Leadership (a Virginia Baptist Collegiate Ministry)
+<td width="313">Center for Faith &amp; Leadership
 1514 College Avenue</td>
 <td width="383">Director: Gannon Sims
 Email: connect@<a href="mailto:umwcenter.org">umwcenter.org</a>;
-Web:   <a href="http://www.umwcenter.org/">www.umwcenter.org</a>
-(540)371-3970</td>
+Web:   <a href="http://www.umwcenter.org/">www.umwcenter.org</a></td>
 </tr>
 <tr>
 <td width="313">Campus Christian Community (Methodist, Presbyterian, Lutheran, Episcopal – but welcomes all faiths)
