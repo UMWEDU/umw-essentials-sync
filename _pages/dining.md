@@ -39,7 +39,7 @@ For lunch and dinner we offer a variety of selections designed to meet almost ev
 Check <a href="https://umw.sodexomyway.com/dining-near-me/top-of-the-uc">our website </a>for weekly menus and operating hours.
 <h4>Retail Dining – Second Floor</h4>
 <ul>
- 	<li>Panera Bread located on the second floor of the UC is coming in late October 2019.Panera Bread, coming in late October. Panera Bread is consistently named one of the nation’s most popular fast casual eateries. Panera offers high-quality foods made with “100% clean” ingredients – no artificial additives, sweeteners, flavors, or colors; its breads and pastries are baked from scratch every day, and its menus offer a variety of desirable as well as innovative comfort foods. Panera will offer a kiosk ordering system, allowing guests to make quick pick-ups of their orders.</li>
+ 	<li>Panera Bread located on the second floor of the UC, is coming in late October 2019. Panera Bread is consistently named one of the nation’s most popular fast casual eateries. Panera offers high-quality foods made with “100% clean” ingredients – no artificial additives, sweeteners, flavors, or colors; its breads and pastries are baked from scratch every day, and its menus offer a variety of desirable as well as innovative comfort foods. Panera will offer a kiosk ordering system, allowing guests to make quick pick-ups of their orders.</li>
 </ul>
 <h3>Hurley Convergence Center</h3>
 <ul>
