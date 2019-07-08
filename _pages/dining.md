@@ -34,27 +34,21 @@ Yes! All meal plans allow students to use five of their plan meals as guest meal
 <h4><a href="https://umw.sodexomyway.com/dining-near-me/top-of-the-uc">Resident Dining </a>- Top of the University Center</h4>
 The entire fourth floor of the University Center is dedicated to resident dining’s all-you-care-to-eat buffets offered at nine specialty serving areas. You can start each day with a full hot breakfast served weekdays from 7 a.m. until 11 a.m. Enjoy mouth-watering pastries baked before your eyes at the Magic Oven, or make your own Belgian waffle at “Graze” – our fruit, breads, and spreads bar.
 
-For lunch and dinner we offer a variety of selections designed to meet almost every dining preference or diet plan. You’ll find traditional home-style classics (like meat loaf, roast chicken, and mashed potatoes); Italian pastas and pizzas; hamburgers and other grilled sandwiches; deli sandwiches made to order; and international dishes like chicken and broccoli stir-fry or Greek gyros. We’re also pleased to offer hot vegan dishes at the Sustenance Vegan Grill and complete allergen-free (no gluten, milk, eggs, nuts, soy, wheat, or shellfish) plates at Simple Servings. Don’t forget dessert! You can choose our house-made gelato, fresh-baked cookies and cakes, or a soft-serve ice cream cone to put a sweet ending to your bountiful meal.
+For lunch and dinner we offer a variety of selections designed to meet almost every dining preference or diet plan. You’ll find traditional home-style classics (like meat loaf, roast chicken, and mashed potatoes); Italian pastas and pizzas; hamburgers and other grilled sandwiches; deli sandwiches made to order; and international dishes like chicken and broccoli stir-fry or Greek gyros. We’re also pleased to offer hot vegan dishes at the Sustenance Vegan Grill and complete allergen-free (no gluten, milk, eggs, nuts, soy, wheat, or shellfish) plates at Simple Servings. New gluten-free serving area added at the Sustenance Station<strong>. </strong> A “Grains &amp; Grub” station will offer a variety of proteins and grains for lunch and dinner at the back side of the Sustenance Station. Gluten-free breakfast items will also be served in this area. These gluten-free options will be in addition to the ones offered daily for lunch and dinner at Simple Servings. Don’t forget dessert! You can choose our house-made gelato, fresh-baked cookies and cakes, or a soft-serve ice cream cone to put a sweet ending to your bountiful meal.
 
 Check <a href="https://umw.sodexomyway.com/dining-near-me/top-of-the-uc">our website </a>for weekly menus and operating hours.
 <h4>Retail Dining – Second Floor</h4>
 <ul>
- 	<li><a href="https://umw.sodexomyway.com/dining-near-me/qdoba">Qdoba </a>Mexican Eats: This is the place to get authentic Mexican burritos and nachos!</li>
- 	<li><a href="https://umw.sodexomyway.com/dining-near-me/jamba-juice">Jamba Juice</a>: Stop in for fresh fruit and vegetable smoothies or piping hot cups of coffee.</li>
- 	<li>Li’l Joe’s: The menu here changes to meet campus food trends! Check us out!</li>
+ 	<li>Panera Bread located on the second floor of the UC is coming in late October 2019.Panera Bread, coming in late October. Panera Bread is consistently named one of the nation’s most popular fast casual eateries. Panera offers high-quality foods made with “100% clean” ingredients – no artificial additives, sweeteners, flavors, or colors; its breads and pastries are baked from scratch every day, and its menus offer a variety of desirable as well as innovative comfort foods. Panera will offer a kiosk ordering system, allowing guests to make quick pick-ups of their orders.</li>
 </ul>
 <h3>Hurley Convergence Center</h3>
 <ul>
- 	<li><a href="https://umw.sodexomyway.com/dining-near-me/blackstone">Blackstone Coffee</a>: Located in the HCC and offers locally roasted coffee plus gourmet sandwiches and desserts.</li>
-</ul>
-<h3>Lee Hall</h3>
-<ul>
- 	<li>The <a href="https://umw.sodexomyway.com/dining-near-me/the-underground">Underground Cafe</a> located in Lee Hall: Offers delicious sandwiches and is now managed by UMW students!</li>
+ 	<li>Katora Café located in the HCC, will be offering sustainably sourced, locally roasted coffees, organic loose-leaf teas, and a plant-forward vegetarian and wellness-centered menu that includes gluten-free selections.</li>
 </ul>
 <h3>Woodard Hall</h3>
 <ul>
  	<li><a href="https://umw.sodexomyway.com/dining-near-me/vocelli">Vocelli Pizza</a>: Fresh hand-tossed pizzas, wings and more!</li>
- 	<li><a href="https://umw.sodexomyway.com/dining-near-me/the-market">The Market</a>: Offers Hissho Sushi prepared fresh each weekday and a variety of samdwiches, snacks, and beverages that you can "grab &amp; go"!</li>
+ 	<li><a href="https://umw.sodexomyway.com/dining-near-me/the-market">The Market</a>: Offers Hissho Sushi prepared fresh each weekday and a variety of sandwiches, snacks, and beverages that you can "grab &amp; go"!</li>
 </ul>
 <h3>Campus Walk</h3>
 <ul>
