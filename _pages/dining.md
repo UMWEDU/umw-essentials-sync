@@ -39,11 +39,11 @@ For lunch and dinner, we offer a variety of selections designed to meet almost e
 Check <a href="https://umw.sodexomyway.com/dining-near-me/top-of-the-uc">our website </a>for weekly menus and operating hours.
 <h4>Retail Dining – Second Floor</h4>
 <ul>
- 	<li>Panera Bread located on the second floor of the UC, is coming in late October 2019. Panera Bread is consistently named one of the nation’s most popular fast casual eateries. Panera offers high-quality foods made with “100% clean” ingredients – no artificial additives, sweeteners, flavors, or colors; its breads and pastries are baked from scratch every day, and its menus offer a variety of desirable as well as innovative comfort foods. Panera will offer a kiosk ordering system, allowing guests to make quick pick-ups of their orders.</li>
+ 	<li>Panera Bread, located on the second floor of the UC, is coming in late October 2019. Panera Bread is consistently named one of the nation’s most popular fast-casual eateries. Panera offers high-quality foods made with “100% clean” ingredients – no artificial additives, sweeteners, flavors, or colors; its breads and pastries are baked from scratch every day, and its menus offer a variety of desirable as well as innovative comfort foods. Panera will offer a kiosk ordering system, allowing guests to make quick pick-ups of their orders.</li>
 </ul>
 <h3>Hurley Convergence Center</h3>
 <ul>
- 	<li>Katora Café located in the HCC, will be offering sustainably sourced, locally roasted coffees, organic loose-leaf teas, and a plant-forward vegetarian and wellness-centered menu that includes gluten-free selections.</li>
+ 	<li>Katora Café, located in the HCC, will be offering sustainably sourced, locally roasted coffees, organic loose-leaf teas, and a plant-forward vegetarian and wellness-centered menu that includes gluten-free selections.</li>
 </ul>
 <h3>Woodard Hall</h3>
 <ul>
