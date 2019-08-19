@@ -21,7 +21,7 @@ New students can move into residence halls from 8:00 a.m. to 2:00 p.m. on Wednes
  	<li>It can be very warm in August. Dress appropriately.</li>
 </ul>
 <h2 id="newstudent">New Student Arrival and Welcome</h2>
-<a href="http://orientation.umw.edu/newstudentwelcome/">New Student Arrival and Welcome </a>begins on Wednesday, August 21, and encompasses several different programs to make your transition onto the UMW campus seamless.
+<a href="https://orientation.umw.edu/new-student-arrival-schedule/">New Student Arrival and Welcome </a>begins on Wednesday, August 21, and encompasses several different programs to make your transition onto the UMW campus seamless.
 
 After students and families say goodbye to one another, students will begin four days of the new student welcome experience! Our newest Eagles can expect to be introduced to the UMW campus through a variety of programs, social events, and opportunities to connect with faculty and staff. You’ll learn about what it means to be an Eagle, find out how to navigate your way on campus, get to know more about your department and, of course, have a lot of fun!
 <h3>Welcome Activities!</h3>
