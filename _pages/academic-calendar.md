@@ -77,7 +77,7 @@ post_date: 2016-05-11 19:43:19
 <td>April 27-May 1</td>
 </tr>
 <tr>
-<td>WINTER BREAK (Dec. 14-Jan. 112, 2020)*</td>
+<td>WINTER BREAK (Dec. 14-Jan. 12, 2020)*</td>
 <td>December 14</td>
 <td></td>
 </tr>
