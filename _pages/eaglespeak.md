@@ -60,8 +60,6 @@ post_date: 2016-05-11 19:02:10
 
 <a href="http://academics.umw.edu/academicandcareerservices/employ-an-eagle/"><strong>EMPLOY-AN-EAGLE</strong></a> – online database managed by Academic and Career Services where internship and job opportunities are posted.
 
-<strong>eSUDS </strong>– online laundry monitoring system used in most residence halls.
-
 <strong>FLEX </strong>– (n.) extra money that comes with your meal plan to use at the Eagle’s Nest or Seacobeck; (v.) to use your flex dollars to pay for yourself or someone else, ex. “I’ll flex you today.”
 
 <strong>FOUNTAIN </strong>–located in Palmieri Plaza, in front of Monroe Hall.
