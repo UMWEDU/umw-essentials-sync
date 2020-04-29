@@ -33,7 +33,7 @@ After students and families say goodbye to one another, students will begin four
  	<li>Eagle Gathering</li>
  	<li>Look for posted schedules, or visit <a href="http://orientation.umw.edu/newstudentwelcome/">New Student Welcome</a></li>
 </ul>
-<h2 id="rise">RISE Peer Mentors</h2>
+<h2 id="rise">RISE Peer Mentoring Program</h2>
 The <a href="http://students.umw.edu/multicultural/rise/">RISE Peer Mentoring Program</a> is open to incoming first-year and transfer students from underrepresented populations to assist in effectively connecting them to the Mary Washington community.  Once accepted into the program, new students (mentees) will be paired with continuing students (sophomores – seniors) as their peer mentors.
 
 As participants in the program, students are expected to maintain weekly contact with peer mentors, participate in one group activity per month, attend at least two University-wide programs per semester, complete end-of-semester evaluations in the fall and spring, and comply with the University’s <a href="http://publications.umw.edu/facultyhandbook/section_1/diversity_inclusion/">Principles on Diversity and Inclusion</a>, <a href="http://publications.umw.edu/facultyhandbook/section_1/community_values/">Statement of Community Values</a>, <a href="http://students.umw.edu/fredericksburghonorcouncil/">Honor Code</a>, and <a href="http://students.umw.edu/judicialaffairs/the-judicial-system/code-of-conduct/">Code of Conduct</a>.
