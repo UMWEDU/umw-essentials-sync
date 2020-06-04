@@ -30,19 +30,19 @@ post_date: 2016-05-11 19:02:10
 
 <strong>BLUE LIGHTS </strong>– emergency lights located on campus with phones that are directly connected to UMW Police.
 
-<strong>CAMPUS PROGRAMMING BOARD (CPB) </strong>– organization that creates weekly events, big events, movies, and concerts for the student body.
+<strong>CAMPUS PROGRAMMING BOARD (CPB) </strong>– an organization that creates weekly events, big events, movies, and concerts for the student body.
 
-<strong>CAMPUS WALK </strong>– large brick walkway through the center of campus with lots of benches and great gathering places.
+<strong>CAMPUS WALK </strong>– a large brick walkway through the center of campus with lots of benches and great gathering places.
 
-<strong>CANVAS </strong>– online course management system that provides course information such as notes, grades, assignments, and class announcements. Use varies by professor. May be accessed through <a href="https://auth.umw.edu/authenticationendpoint/login.do?commonAuthCallerPath=%252Fcas%252Flogin&amp;forceAuth=false&amp;passiveAuth=false&amp;relyingParty=Orgsync&amp;tenantDomain=carbon.super&amp;type=cassso&amp;sessionDataKey=4ff91bc1-432b-46bf-b2b3-3dc1fc36cbc6&amp;relyingParty=Orgsync&amp;type=cassso&amp;sp=default&amp;isSaaSApp=true&amp;authenticators=BasicAuthenticator:LOCAL">myUMW</a> or through the Quick Links at the top of the UMW home page.
+<strong>CANVAS </strong>– online course management system that provides course information such as notes, grades, assignments, and class announcements. Use varies by professor. It may be accessed through <a href="https://auth.umw.edu/authenticationendpoint/login.do?commonAuthCallerPath=%252Fcas%252Flogin&amp;forceAuth=false&amp;passiveAuth=false&amp;relyingParty=Orgsync&amp;tenantDomain=carbon.super&amp;type=cassso&amp;sessionDataKey=4ff91bc1-432b-46bf-b2b3-3dc1fc36cbc6&amp;relyingParty=Orgsync&amp;type=cassso&amp;sp=default&amp;isSaaSApp=true&amp;authenticators=BasicAuthenticator:LOCAL">myUMW</a> or through the Quick Links at the top of the UMW home page.
 
 <a href="http://shopatcentralpark.com/"><strong>CENTRAL PARK</strong></a> – 310-acre shopping area located west of campus on Route 3, with more than 100 stores (Kohl’s, Target, Wegmans, Walmart, Old Navy, etc.) and many national chain restaurants.
 
-<a href="https://orgsync.com/50826/chapter"><strong>CLASS COUNCIL</strong></a> – organization charged with maintaining UMW traditions.
+<a href="https://students.umw.edu/studentactivities/list/elected-student-leaders/"><strong>CLASS COUNCIL</strong></a> – the organization charged with maintaining UMW traditions.
 
 <strong>CLUB CARNIVAL </strong>– biannual event held the first week of each semester, during which students can learn about clubs and organizations.
 
-<strong>COAR </strong>– <a href="http://students.umw.edu/coar/">Community Outreach and Resources</a>, run by students who coordinate volunteer activities on and off campus and service-learning programs.
+<strong>COAR </strong>– <a href="https://academics.umw.edu/communityengagement/community-outreach-and-resources-coar/">Community Outreach and Resources</a>, run by students who coordinate volunteer activities on and off campus and service-learning programs.
 
 <strong>DODD </strong>– <a href="http://adminfinance.umw.edu/dodd/">auditorium in GW</a> Hall, home to many UMW traditions, speakers, and concerts.
 
@@ -50,7 +50,7 @@ post_date: 2016-05-11 19:02:10
 
 <strong>DOWNTOWN </strong>– <a href="http://www.virginia.org/Listings/Shopping/HistoricDowntownFredericksburg/">Downtown Fredericksburg</a>, featuring shops, restaurants, and historic sites.
 
-<strong>EAGLE </strong>– UMW mascot. Additionally, shorthand used by many students for the residential building Eagle Landing.
+<strong>EAGLE </strong>– UMW mascot. Additionally, a shorthand used by many students for the residential building Eagle Landing.
 
 <a href="http://foundation.umw.edu/eagle-village/"><strong>EAGLE VILLAGE</strong></a> – a residential and retail mixed-use village for townspeople, students, and faculty to shop, live, work, and enjoy entertainment facilities. <a href="http://www.umw.edu/residencelife/residence-hall/eagle-landing/"><strong>Eagle Landing</strong></a> is the residence hall at Eagle Village.
 
