@@ -13,8 +13,8 @@ For more information regarding the topics below, and other financial aid options
 <h2>Frequently Asked Questions</h2>
 <h3>How can I access my/my student’s financial aid information?</h3>
 When a student enters college, their financial aid information is considered protected information under FERPA (Family Educational Rights and Privacy Act). However, a student can designate a parent or other third party to be a ‘Delegated User’. These Delegated Users’ are able to contact the Financial Aid office and discuss information regarding the student’s financial aid award and requirement status. Students may sign up ‘Delegated Users’ through their MyUMW portal. Instructions for sign-up are contained in the award letter guide that accompanied your award letter. Without student consent, Financial Aid representatives are unable to speak to parents or other third parties regarding the student’s financial aid award and requirements.
-<h3>What are the costs for 2018-2019?</h3>
-Current <a href="https://www.umw.edu/financialaid/process/cost-of-attendance/"> costs for 2018-2019</a> can be found on our Financial Aid website.
+<h3>What are the costs for 2020-21?</h3>
+Current <a href="https://www.umw.edu/financialaid/process/cost-of-attendance/">costs for 2020-21</a> can be found on our Financial Aid website.
 <h3>When will my bill be due for the 2018-2019 year and what other options are available?</h3>
 Fall semester bills are due in late July 2018, and spring semester bills are due in November 2018. Payment plan options are available through the <a href="http://adminfinance.umw.edu/studentaccounts/">UMW Office of Student Accounts</a>.
 <h3>I made a mistake on my FAFSA and have updated the information. Will this change my financial aid eligibility?</h3>
