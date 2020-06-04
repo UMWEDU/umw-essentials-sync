@@ -52,13 +52,13 @@ post_date: 2016-05-11 19:02:10
 
 <strong>EAGLE </strong>– UMW mascot. Additionally, a shorthand used by many students for the residential building Eagle Landing.
 
-<a href="http://foundation.umw.edu/eagle-village/"><strong>EAGLE VILLAGE</strong></a> – a residential and retail mixed-use village for townspeople, students, and faculty to shop, live, work, and enjoy entertainment facilities. <a href="http://www.umw.edu/residencelife/residence-hall/eagle-landing/"><strong>Eagle Landing</strong></a> is the residence hall at Eagle Village.
+<a href="https://www.umw.edu/visitors/eagle-village/"><strong>EAGLE VILLAGE</strong></a> – a residential and retail mixed-use village for townspeople, students, and faculty to shop, live, work, and enjoy entertainment facilities. <a href="http://www.umw.edu/residencelife/residence-hall/eagle-landing/"><strong>Eagle Landing</strong></a> is the residence hall at Eagle Village.
 
 <strong>EagleOne </strong>– relates to <a href="http://adminfinance.umw.edu/eagleone/">EagleOne card</a>, or funds deposited in EagleOne account. EagleOne card is used to pay for meals on campus, gain access to residence halls and campus buildings after-hours, and as a means of identification as a UMW student.
 
 <a href="http://adminfinance.umw.edu/studentaccounts/eaglepay/"><strong>EaglePAY</strong></a> – online billing and payment system; located in EagleNet Portal.
 
-<a href="http://academics.umw.edu/academicandcareerservices/employ-an-eagle/"><strong>EMPLOY-AN-EAGLE</strong></a> – online database managed by Academic and Career Services where internship and job opportunities are posted.
+<a href="https://www.umw.edu/careercenter/"><strong>EMPLOY-AN-EAGLE</strong></a> – online database managed by Academic and Career Services where internship and job opportunities are posted.
 
 <strong>FLEX </strong>– (n.) extra money that comes with your meal plan to use at the Eagle’s Nest or Seacobeck; (v.) to use your flex dollars to pay for yourself or someone else, ex. “I’ll flex you today.”
 
