@@ -84,7 +84,7 @@ post_date: 2016-05-11 19:02:10
 
 <strong>LEE HALL </strong>– houses essential student services, the University Bookstore, and The Underground.
 
-<a href="https://orgsync.com/sso_redirect/university-of-mary-washington"><strong>myUMW</strong></a> – online portal where everyone connects to campus and involvement resources.
+<a href="https://orgsync.com/sso_redirect/university-of-mary-washington"><strong>myUMW</strong></a> – an online portal where everyone connects to campus and involvement resources (access Presence via Chrome or Firefox).
 
 <a href="http://adminfinance.umw.edu/safety/umw-rave-guardian-system/"><strong>Rave Guardian</strong></a><strong> – </strong>personal safety app for your phone; download is free.
 
