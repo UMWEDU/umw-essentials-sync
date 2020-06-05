@@ -68,7 +68,7 @@ post_date: 2016-05-11 19:02:10
 
 <strong>GW </strong>– George Washington Hall, home to Dodd Auditorium and the offices of the president and others.
 
-<a href="https://umw.joinhandshake.com/login"><strong>Handshake</strong></a> – online database managed by Academic and Career Services where internship and job opportunities are posted.
+<a href="https://umw.joinhandshake.com/login"><strong>Handshake</strong></a> – online database managed by the Career Center where internship and job opportunities are posted.
 
 <strong>HONOR COUNCIL </strong>– promotes awareness of and adherence to the <a href="http://students.umw.edu/fredericksburghonorcouncil/">honor system</a> and assesses violations related to lying, cheating, and stealing.
 
