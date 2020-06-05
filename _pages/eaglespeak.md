@@ -58,8 +58,6 @@ post_date: 2016-05-11 19:02:10
 
 <a href="http://adminfinance.umw.edu/studentaccounts/eaglepay/"><strong>EaglePAY</strong></a> – online billing and payment system; located in EagleNet Portal.
 
-<a href="https://www.umw.edu/careercenter/"><strong>EMPLOY-AN-EAGLE</strong></a> – online database managed by Academic and Career Services where internship and job opportunities are posted.
-
 <strong>FLEX </strong>– (n.) extra money that comes with your meal plan to use at the Eagle’s Nest or Seacobeck; (v.) to use your flex dollars to pay for yourself or someone else, ex. “I’ll flex you today.”
 
 <strong>FOUNTAIN </strong>–located in Palmieri Plaza, in front of Monroe Hall.
@@ -69,6 +67,8 @@ post_date: 2016-05-11 19:02:10
 <strong>FSEM </strong>– <a href="http://academics.umw.edu/fsem/">first-year seminar</a>.
 
 <strong>GW </strong>– George Washington Hall, home to Dodd Auditorium and the offices of the president and others.
+
+<a href="https://umw.joinhandshake.com/login"><strong>Handshake</strong></a> – online database managed by Academic and Career Services where internship and job opportunities are posted.
 
 <strong>HONOR COUNCIL </strong>– promotes awareness of and adherence to the <a href="http://students.umw.edu/fredericksburghonorcouncil/">honor system</a> and assesses violations related to lying, cheating, and stealing.
 
