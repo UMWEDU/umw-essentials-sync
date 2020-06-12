@@ -31,7 +31,7 @@ After students and families say goodbye to one another, students will begin four
  	<li>Glow Zone Glow Party</li>
  	<li>Cross Cultural BBQ</li>
  	<li>Eagle Gathering</li>
- 	<li>Look for posted schedules, or visit <a href="http://orientation.umw.edu/newstudentwelcome/">New Student Welcome</a></li>
+ 	<li>Look for posted schedules, or visit <a href="https://orientation.umw.edu/new-student-arrival-schedule/">New Student Welcome</a></li>
 </ul>
 <h2 id="rise">RISE Peer Mentoring Program</h2>
 The <a href="http://students.umw.edu/multicultural/rise/">RISE Peer Mentoring Program</a> is open to incoming first-year and transfer students from underrepresented populations to assist in effectively connecting them to the Mary Washington community.  Once accepted into the program, new students (mentees) will be paired with continuing students (sophomores – seniors) as their peer mentors.
