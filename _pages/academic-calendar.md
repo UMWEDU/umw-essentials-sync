@@ -13,62 +13,62 @@ post_date: 2016-05-11 19:43:19
 <tbody>
 <tr>
 <th width="50%"></th>
-<th width="25%">Fall 2019</th>
+<th width="25%">Fall 2020</th>
 <th width="25%">Spring 2020</th>
 </tr>
 <tr>
 <td>Classes begin</td>
-<td>August 26</td>
+<td>August 24</td>
 <td>January 13</td>
 </tr>
 <tr>
 <td>Last day to add courses</td>
-<td>August 30</td>
+<td>August 28</td>
 <td>January 17</td>
 </tr>
 <tr>
 <td>Course-drop deadline (without a “W” grade)</td>
-<td>September 13</td>
+<td>September 11</td>
 <td>January 31</td>
 </tr>
 <tr>
 <td>FAMILY WEEKEND</td>
-<td>October 4-6</td>
+<td>October 2-4</td>
 <td></td>
 </tr>
 <tr>
 <td>FALL/SPRING BREAK*</td>
-<td>October 12 (5 p.m.)-15</td>
+<td>No Fall Break</td>
 <td>February 28 (5 p.m.)- March 9</td>
 </tr>
 <tr>
 <td>HOMECOMING</td>
-<td>October 18-19</td>
+<td>October 23-24</td>
 <td></td>
 </tr>
 <tr>
 <td>Individual course withdrawal deadline</td>
-<td>October 25</td>
+<td>October 23</td>
 <td>March 20</td>
 </tr>
 <tr>
 <td>Advance registration</td>
-<td>October 28</td>
+<td>October 26</td>
 <td> March 23-April 3</td>
 </tr>
 <tr>
 <td>THANKSGIVING*</td>
-<td>November 27-Decenber 1</td>
+<td>November 25-29</td>
 <td></td>
 </tr>
 <tr>
 <td>Classes end/last day to withdraw</td>
-<td>December 6</td>
+<td>December 4</td>
 <td>April 24</td>
 </tr>
 <tr>
 <td>Reading days</td>
-<td>December 7-8</td>
+<td>December 5-6</td>
 <td>April 25-26</td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ post_date: 2016-05-11 19:43:19
 </tr>
 <tr>
 <td>WINTER BREAK (Dec. 14-Jan. 12, 2020)*</td>
-<td>December 14</td>
+<td>December 12</td>
 <td></td>
 </tr>
 <tr>
