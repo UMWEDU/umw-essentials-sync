@@ -14,22 +14,22 @@ post_date: 2016-05-11 19:43:19
 <tr>
 <th width="50%"></th>
 <th width="25%">Fall 2020</th>
-<th width="25%">Spring 2020</th>
+<th width="25%">Spring 2021</th>
 </tr>
 <tr>
 <td>Classes begin</td>
 <td>August 24</td>
-<td>January 13</td>
+<td>January 11</td>
 </tr>
 <tr>
 <td>Last day to add courses</td>
 <td>August 28</td>
-<td>January 17</td>
+<td>January 15</td>
 </tr>
 <tr>
 <td>Course-drop deadline (without a “W” grade)</td>
 <td>September 11</td>
-<td>January 31</td>
+<td>January 29</td>
 </tr>
 <tr>
 <td>FAMILY WEEKEND</td>
@@ -39,7 +39,7 @@ post_date: 2016-05-11 19:43:19
 <tr>
 <td>FALL/SPRING BREAK*</td>
 <td>No Fall Break</td>
-<td>February 28 (5 p.m.)- March 9</td>
+<td>February 26 (5 p.m.)- March 7</td>
 </tr>
 <tr>
 <td>HOMECOMING</td>
@@ -49,12 +49,12 @@ post_date: 2016-05-11 19:43:19
 <tr>
 <td>Individual course withdrawal deadline</td>
 <td>October 23</td>
-<td>March 20</td>
+<td>March 19</td>
 </tr>
 <tr>
 <td>Advance registration</td>
 <td>October 26</td>
-<td> March 23-April 3</td>
+<td> March 22-April 2</td>
 </tr>
 <tr>
 <td>THANKSGIVING*</td>
@@ -64,17 +64,17 @@ post_date: 2016-05-11 19:43:19
 <tr>
 <td>Classes end/last day to withdraw</td>
 <td>December 4</td>
-<td>April 24</td>
+<td>April 23</td>
 </tr>
 <tr>
 <td>Reading days</td>
 <td>December 5-6</td>
-<td>April 25-26</td>
+<td>April 24-25</td>
 </tr>
 <tr>
 <td>Final exams</td>
 <td>December 9-13</td>
-<td>April 27-May 1</td>
+<td>April 26-30</td>
 </tr>
 <tr>
 <td>WINTER BREAK (Dec. 14-Jan. 12, 2020)*</td>
@@ -84,7 +84,7 @@ post_date: 2016-05-11 19:43:19
 <tr>
 <td>COMMENCEMENT</td>
 <td></td>
-<td>May 9</td>
+<td>May 8</td>
 </tr>
 <tr>
 <td>Residence halls closed</td>
