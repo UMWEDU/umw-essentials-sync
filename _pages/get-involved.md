@@ -75,7 +75,7 @@ Email: <a href="mailto:anne@christ-lutheran-church.org">anne@christ-lutheran-chu
 1614 College Avenue</td>
 <td width="383">Chaplain: Father Christopher Vaccaro
 Email: <a href="mailto:fathervaccaro@umwccm.org">fathervaccaro@umwccm.org
-</a>Web:  <a href="http://umwccm.org/favicon.ico">Umwccm.org
+</a>Web:  <a href="https://www.umwcatholic.org/">https://www.umwcatholic.org/
 </a>(540)373-6746</td>
 </tr>
 <tr>
