@@ -42,7 +42,7 @@ Saturday-Sunday:  11 a.m. - 8 p.m.
 Whether you take a studio art class, join the orchestra, audition for a play, or sing and dance, you can be part of a vibrant aspect of life at UMW. Contact Prof. Gregg Stull (gstull@umw.edu) about theater, dance, or music; or Prof. Carole Garmon (cgarmon@umw.edu) about studio art or art history.
 <h2>Campus Ministries</h2>
 As a public institution, the University of Mary Washington does not have a denominational affiliation. We know, however, that religious traditions are important to many students and encourage students to reach out to the leaders of several vibrant campus ministries and student organizations listed here:
-<table>
+<table style="height: 509px" width="717">
 <tbody>
 <tr>
 <td width="313"><strong>Organization</strong></td>
@@ -67,7 +67,7 @@ Web:   <a href="http://www.umwcenter.org/">www.umwcenter.org</a></td>
 820 College Avenue</td>
 <td width="383">Chaplain: Pastor Anne Jones
 Email: <a href="mailto:anne@christ-lutheran-church.org">anne@christ-lutheran-church.org
-</a>Web:  <a href="http://www.umwcanterbury.com/">umwcanterbury.com
+</a>Web:  <a href="https://www.facebook.com/thehouseelcm">https://www.facebook.com/thehouseelcm
 </a>(540)373-5087</td>
 </tr>
 <tr>
