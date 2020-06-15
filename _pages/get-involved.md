@@ -58,7 +58,7 @@ Web:   <a href="http://www.umwcenter.org/">www.umwcenter.org</a></td>
 <tr>
 <td width="313">Campus Christian Community (Methodist, Presbyterian, Lutheran, Episcopal – but welcomes all faiths)
 1213 Dandridge Street</td>
-<td width="383">Web: <a href="http://www.campuschristiancommunity.com/index.html">campuschristiancommunity.com
+<td width="383">Web: <a href="http://www.campuschristiancommunity.com/">campuschristiancommunity.com
 </a>Email: <a href="mailto:info@Campuschristiancommunity.com">info@Campuschristiancommunity.com
 </a>(540)373-9255</td>
 </tr>
