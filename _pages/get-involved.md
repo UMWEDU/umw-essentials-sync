@@ -95,7 +95,7 @@ Email: <a href="mailto:fathervaccaro@umwccm.org">fathervaccaro@umwccm.org
 </table>
 &nbsp;
 <h4>Love community service?</h4>
-In the <a href="http://students.umw.edu/coar/">Community Outreach and Resources office, (COAR),</a> students organize service opportunities for students. COAR has nearly 20 weekly ongoing programs that include tutoring and mentoring children and teens, building with Habitat for Humanity, spending time with the elderly and animals, and working on environmental projects. COAR also sponsors on-campus service programs for the community such as a trick-or-treat in the fall and an egg hunt in the spring. Whether volunteering on your own or with a group, COAR is a great place to start!
+In the <a href="https://academics.umw.edu/communityengagement/community-outreach-and-resources-coar/">Community Outreach and Resources office, (COAR),</a> students organize service opportunities for students. COAR has nearly 20 weekly ongoing programs that include tutoring and mentoring children and teens, building with Habitat for Humanity, spending time with the elderly and animals, and working on environmental projects. COAR also sponsors on-campus service programs for the community such as a trick-or-treat in the fall and an egg hunt in the spring. Whether volunteering on your own or with a group, COAR is a great place to start!
 
 &nbsp;
 <h2>Clubs and Organizations</h2>
