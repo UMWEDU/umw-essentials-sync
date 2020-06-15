@@ -30,14 +30,6 @@ Campus Recreation offers over 30 group fitness classes each week, including Zu
 Student Employees Welcome!
 
 Campus Recreation is the second largest <a href="https://students.umw.edu/campusrec/campus-recreation/about/campus-rec-staff/">employer of students.</a>  Students work for Campus Recreation as Fitness Center attendants, group fitness instructors, personal trainers, intramural officials, outdoor recreation trip leaders, lifeguards, swim instructors, and more. There are also opportunities for students to become certified personal trainers or group fitness instructors!  Applications are available on our <a href="https://students.umw.edu/campusrec/campus-recreation/about/campus-rec-staff/">website</a>.
-
-<strong>Visit the Fitness Center!</strong>
-
-<strong>Regular semester hours: </strong>
-
-Monday-Thursday:  6 a.m. - 10:30 p.m.
-Friday:  6 a.m. - 8 p.m.
-Saturday-Sunday:  11 a.m. - 8 p.m.
 <h2>Arts at UMW</h2>
 Whether you take a studio art class, join the orchestra, audition for a play, or sing and dance, you can be part of a vibrant aspect of life at UMW. Contact Prof. Gregg Stull (gstull@umw.edu) about theater, dance, or music; or Prof. Carole Garmon (cgarmon@umw.edu) about studio art or art history.
 <h2>Campus Ministries</h2>
