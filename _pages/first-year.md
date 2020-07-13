@@ -20,7 +20,27 @@ post_date: 2016-05-12 18:05:42
  	<li>development of writing and speaking skills</li>
 </ul>
 <h2>Common Read</h2>
-The Common Read Experience is a shared academic experience for students, faculty, staff, and community members the week prior to the start of classes. Previous Common Reads have focused on discussions of text, plays, and experiences. This year the Common Experience will bring in podcasts and other digital resources to discuss the extraordinary experiences we are currently living through. Details coming soon to <a href="https://academics.umw.edu/fye/common-read/">https://academics.umw.edu/fye/common-read/</a>!
+The Common Read Experience is a shared academic experience for students, faculty, staff, and community members the week prior to the start of classes. Previous Common Reads have focused on discussions of text, plays, and experiences. This year the Common Experience will bring in podcasts and other digital resources to discuss the extraordinary experiences we are currently living through.
+<div id="umw-custom-background">
+<div id="wrap">
+<div id="wrap">
+<div id="inner">
+<div id="content-sidebar-wrap">
+<div id="content" class="hfeed">
+<div class="post-153 page type-page status-publish hentry entry">
+<div class="entry-content">
+
+The chosen theme of the <a href="https://academics.umw.edu/fye/common-read-2020/">Common Experience</a> 2020 was civility and political action. When COVID-19 struck, and the United States began to discuss systemic racism amid wide-spread protests, it became apparent that the theme was too limited to encapsulate the common experience the country and the world are facing today.
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+&nbsp;
 
 &nbsp;
 
