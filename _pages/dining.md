@@ -24,9 +24,9 @@ The resident dining buffets at the <a href="https://umw.sodexomyway.com/dining-n
 <h3>What are EagleOne dollars?</h3>
 Your <a href="http://adminfinance.umw.edu/eagleone/">EagleOne card</a> is your admission ticket to the dining facilities. You can purchase EagleOne dollars at the EagleOne ID Center, the Office of Student Accounts, by mail, or online at <a href="http://adminfinance.umw.edu/eagleone/">adminfinance.umw.edu/eagleone</a>. EagleOne dollars may be used at all campus dining locations and at numerous off-campus businesses. Purchases made with EagleOne dollars are subject to Virginia sales tax. Unused EagleOne dollars will remain in your account for the duration of your enrollment.
 <h3>What’s on the menu?</h3>
-To check menus, visit UMW Dining at umwdining.com, follow us on Twitter (@umwdining) or “like” <a href="https://umw.sodexomyway.com/">UMW Dining</a> on Facebook (UMWdining).
+To check menus, download the BITEU app, by searching for BITE by Sodexo in your app store or visit us online at umw.sodexomyway.com for our retail locations.
 <h3>Special diet?</h3>
-Vegetarian, vegan, and gluten-free items, as well as allergen-free plates at Simple Servings, are available at all meal periods in Resident Dining at the Top of the University Center. Some special dietary items are also offered at Simply To Go and Naturally Woodstock. If you are on a restricted diet, contact the general manager at 540/654-2230 for assistance.
+Vegetarian, vegan, and gluten-free items, as well as allergen-free plates at Simple Servings, are available at all meal periods in Resident Dining at the Top of the University Center. Some special dietary items are also offered at Simply To Go. If you are on a restricted diet, contact Rose Benedict at 540-654-2169.
 <h3>May I bring a guest for dinner?</h3>
 Yes! All meal plans allow students to use five of their plan meals as guest meals. You may also purchase meals at any dining facility with Flex Dollars, EagleOne, cash or credit.
 <h2>Where to eat on campus</h2>
